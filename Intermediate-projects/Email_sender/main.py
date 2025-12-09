@@ -1,12 +1,15 @@
 import smtplib
 import datetime as dt
 import random
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 
 today = dt.datetime.now()
 day_of_week = today.weekday()
-my_email = "effanycisco@gmail.com"
-password = "ztkyzqnmmyymoomd"
+my_email = "EMAIL"
+password = os.environ.get("PASSWORD")
 
 if day_of_week == 1:
     with open("quotes.txt", "r") as file:
@@ -17,7 +20,7 @@ if day_of_week == 1:
         connection.starttls()
         connection.login(user=my_email, password=password)
         connection.sendmail(from_addr=my_email,
-                            to_addrs="effany28119@gmail.com", 
+                            to_addrs="EMAIL", 
                             msg=f"Subject:Hello\n\n{random_quote}"
                             )
 
