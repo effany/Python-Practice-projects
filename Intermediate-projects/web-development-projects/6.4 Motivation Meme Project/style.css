@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+    color: white
+}
+
+#title {
+    font-family: "Libre Baskerville", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#quote {
+    text-align: center;
+}
+
+#quote-img {
+    border: 5px solid white;
+    
+}
+
+#poster {
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 40px;
+}
