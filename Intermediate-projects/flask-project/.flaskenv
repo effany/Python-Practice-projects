@@ -1,0 +1,3 @@
+FLASK_APP=higher_lower_flask.py
+FLASK_ENV=development
+FLASK_DEBUG=True
