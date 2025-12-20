@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jinja</title>
+</head>
+<body>
+    {% if name %}
+        <h1>Hello {{name}}</h1>
+        <h2>I think you are {{gender}}</h2>
+        <h3>And maybe {{age}} years old</h3>
+    {% else %}
+        <h1>Welcome!</h1>
+        <p>Random number: {{num}}</p>
+    {% endif %}
+
+    <a href="{{url_for('get_blog', num=3)}}">Go to Blog</a>
+</body>
+<footer>
+    <p>© Copyright {{year}} Pallets. Created using Jinja.</p>
+</footer>
+</html>
