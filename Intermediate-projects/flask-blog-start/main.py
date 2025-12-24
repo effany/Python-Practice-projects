@@ -22,7 +22,7 @@ def get_post(id):
             post_body = post["body"]
             post_subtitle = post["subtitle"]
 
-    return render_template("post.html", id=id, post_title=post_title, post_body=post_body, post_subtitle= post_subtitle)
+    return render_template("post.html", id=id, post_title=post_title, post_body=post_body, post_subtitle=post_subtitle)
 
 
 if __name__ == "__main__":
