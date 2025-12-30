@@ -81,8 +81,13 @@ with app.app_context():
 @app.route("/")
 def home():
     global all_movies
-    result = db.session.execute(db.select(Movie).order_by(Movie.ranking))
+    result = db.session.execute(db.select(Movie).order_by(Movie.rating.desc()))
     all_movies = result.scalars().all()
+
+    for idx, movie in enumerate(all_movies, start=1):
+        movie.ranking = idx
+    db.session.commit()
+        
     return render_template("index.html", all_movies = all_movies)
 
 @app.route("/edit/<int:id>", methods=["POST", "GET"])
@@ -95,8 +100,6 @@ def edit_movie(id):
             movie_to_update.rating = form.rating.data
         if form.review.data:
             movie_to_update.review = form.review.data
-        if form.ranking.data:
-            movie_to_update.ranking = form.ranking.data
         
         db.session.commit()
         return redirect(url_for('home'))
