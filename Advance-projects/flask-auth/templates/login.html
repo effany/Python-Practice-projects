@@ -3,10 +3,6 @@
 <div class="box">
   <!-- TODO: Use Message Flashing to display feedback to the user with a <p> -->
   {% include "flash_messages.html" %}
-  {% if current_user.is_authenticated %}
-  <p>You've already logged in!</p>
-  <a href="{{url_for('logout')}}"><h1>Logout</h1></a>
-  {%else%}
      <form action="{{ url_for('login') }}" method="post">
     <input type="text" name="email" placeholder="Email" required="required" />
     <input
@@ -19,7 +15,7 @@
       Let me in.
     </button>
   </form>
-  {% endif %}
+ 
 </div>
 
 {% endblock %}
