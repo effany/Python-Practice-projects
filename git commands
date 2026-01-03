@@ -1,0 +1,428 @@
+# Git Commands Reference Guide
+
+## 📌 Initial Setup & Configuration
+
+```bash
+# Configure user information for all local repositories
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+# View all configuration settings
+git config --list
+
+# Set default branch name to main
+git config --global init.defaultBranch main
+```
+
+## 🚀 Creating & Initializing Repositories
+
+```bash
+# Initialize a new git repository in current directory
+git init
+
+# Clone an existing repository from URL
+git clone <repository-url>
+
+# Clone to a specific folder name
+git clone <repository-url> <folder-name>
+```
+
+## 📊 Basic Status & Information
+
+```bash
+# Check status of working directory and staging area
+git status
+
+# Show commit history
+git log
+
+# Show compact commit history (one line per commit)
+git log --oneline
+
+# Show last n commits
+git log -n 5
+
+# Show commits with file changes
+git log --stat
+
+# Show visual branch graph
+git log --graph --oneline --all
+```
+
+## 📝 Staging & Committing Changes
+
+```bash
+# Add specific file to staging area
+git add <filename>
+
+# Add all changed files to staging area
+git add .
+
+# Add all files (including deletions)
+git add -A
+
+# Commit staged changes with message
+git commit -m "commit message"
+
+# Add and commit in one step (tracked files only)
+git commit -am "commit message"
+
+# Amend the last commit (change message or add forgotten files)
+git commit --amend -m "new commit message"
+```
+
+## 🔍 Viewing Changes & Differences
+
+```bash
+# Show unstaged changes in working directory
+git diff
+
+# Show changes in a specific file
+git diff <filename>
+
+# Show staged changes (what will be committed)
+git diff --staged
+# or
+git diff --cached
+
+# Compare two branches
+git diff <branch1> <branch2>
+
+# Compare specific commits
+git diff <commit1> <commit2>
+```
+
+## ⏮️ Undoing Changes & Rolling Back
+
+```bash
+# Discard changes in working directory for specific file
+git checkout <filename>
+# or (newer syntax)
+git restore <filename>
+
+# Unstage a file (keep changes in working directory)
+git reset HEAD <filename>
+# or (newer syntax)
+git restore --staged <filename>
+
+# Remove all files from staging area
+git rm --cached -r .
+
+# Undo last commit but keep changes staged
+git reset --soft HEAD~1
+
+# Undo last commit and unstage changes (keep in working directory)
+git reset HEAD~1
+# or
+git reset --mixed HEAD~1
+
+# Completely remove last commit and all changes (DANGEROUS!)
+git reset --hard HEAD~1
+
+# Revert a specific commit (creates new commit that undoes it)
+git revert <commit-hash>
+
+# Go back to a specific commit (detached HEAD state)
+git checkout <commit-hash>
+```
+
+## 🌐 Working with Remotes
+
+```bash
+# View remote repositories
+git remote -v
+
+# Add a remote repository
+git remote add origin <repository-url>
+
+# Change remote URL
+git remote set-url origin <new-url>
+
+# Remove a remote
+git remote remove <remote-name>
+
+# Fetch changes from remote (doesn't merge)
+git fetch origin
+
+# Pull changes from remote and merge
+git pull origin <branch-name>
+
+# Push commits to remote repository
+git push origin <branch-name>
+
+# Push and set upstream tracking (first time)
+git push -u origin main
+
+# Push all branches
+git push --all origin
+
+# Push tags
+git push --tags
+```
+
+## 🌿 Branching & Merging
+
+```bash
+# List all local branches
+git branch
+
+# List all branches (including remote)
+git branch -a
+
+# Create a new branch
+git branch <branch-name>
+
+# Switch to a branch
+git checkout <branch-name>
+# or (newer syntax)
+git switch <branch-name>
+
+# Create and switch to new branch in one command
+git checkout -b <branch-name>
+# or
+git switch -c <branch-name>
+
+# Rename current branch
+git branch -m <new-branch-name>
+
+# Delete a local branch
+git branch -d <branch-name>
+
+# Force delete a branch (unmerged changes)
+git branch -D <branch-name>
+
+# Delete remote branch
+git push origin --delete <branch-name>
+
+# Merge another branch into current branch
+git merge <branch-name>
+
+# Merge with no fast-forward (always create merge commit)
+git merge --no-ff <branch-name>
+
+# Abort a merge in progress
+git merge --abort
+```
+
+## 🔄 Rebase (Alternative to Merge)
+
+```bash
+# Rebase current branch onto another branch
+git rebase <branch-name>
+
+# Continue rebase after resolving conflicts
+git rebase --continue
+
+# Skip current commit during rebase
+git rebase --skip
+
+# Abort rebase and return to original state
+git rebase --abort
+
+# Interactive rebase (edit, squash, reorder commits)
+git rebase -i HEAD~n
+```
+
+## 🏷️ Tagging
+
+```bash
+# List all tags
+git tag
+
+# Create a lightweight tag
+git tag <tag-name>
+
+# Create an annotated tag with message
+git tag -a <tag-name> -m "tag message"
+
+# Tag a specific commit
+git tag <tag-name> <commit-hash>
+
+# Delete a local tag
+git tag -d <tag-name>
+
+# Delete a remote tag
+git push origin --delete <tag-name>
+
+# Push a specific tag
+git push origin <tag-name>
+
+# Push all tags
+git push --tags
+```
+
+## 🔍 Searching & Finding
+
+```bash
+# Search for text in all files
+git grep "search-term"
+
+# Search in specific branch
+git grep "search-term" <branch-name>
+
+# Show who last modified each line of a file
+git blame <filename>
+
+# Find commits that introduced or removed a string
+git log -S "search-term"
+```
+
+## 💾 Stashing (Temporary Storage)
+
+```bash
+# Stash current changes
+git stash
+
+# Stash with a descriptive message
+git stash save "work in progress"
+
+# List all stashes
+git stash list
+
+# Apply most recent stash and keep it in stash list
+git stash apply
+
+# Apply most recent stash and remove it from stash list
+git stash pop
+
+# Apply a specific stash
+git stash apply stash@{n}
+
+# Delete most recent stash
+git stash drop
+
+# Delete a specific stash
+git stash drop stash@{n}
+
+# Clear all stashes
+git stash clear
+
+# Show changes in a stash
+git stash show
+```
+
+## 🔧 Advanced Operations
+
+```bash
+# Show reflog (history of HEAD movements)
+git reflog
+
+# Cherry-pick a specific commit from another branch
+git cherry-pick <commit-hash>
+
+# Clean untracked files (dry run first!)
+git clean -n
+
+# Remove untracked files
+git clean -f
+
+# Remove untracked files and directories
+git clean -fd
+
+# Show details of a specific commit
+git show <commit-hash>
+
+# List files tracked by git
+git ls-files
+
+# Update .gitignore for already tracked files
+git rm -r --cached .
+git add .
+git commit -m "Update .gitignore"
+```
+
+## 🔀 Forking & Pull Requests Workflow
+
+```bash
+# 1. Fork repository on GitHub (using web interface)
+
+# 2. Clone your fork
+git clone <your-fork-url>
+
+# 3. Add original repository as upstream
+git remote add upstream <original-repo-url>
+
+# 4. Create feature branch
+git checkout -b feature-branch
+
+# 5. Make changes and commit
+git add .
+git commit -m "Add feature"
+
+# 6. Push to your fork
+git push origin feature-branch
+
+# 7. Create Pull Request on GitHub (using web interface)
+
+# 8. Sync with original repository
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+```
+
+## 📋 Git Workflow Summary
+
+```
+Working Directory → Staging Area → Local Repository → Remote Repository
+                ↓              ↓                 ↓
+           git add         git commit      git push
+```
+
+## 🚨 Common Scenarios & Solutions
+
+### Accidentally committed to wrong branch
+```bash
+# Reset the branch to previous commit (keep changes)
+git reset HEAD~ --soft
+# Switch to correct branch
+git checkout correct-branch
+# Add and commit
+git add .
+git commit -m "commit message"
+```
+
+### Undo last push (CAREFUL!)
+```bash
+# Reset local branch
+git reset --hard HEAD~1
+# Force push (only if no one else pulled)
+git push -f origin <branch-name>
+```
+
+### Resolve merge conflicts
+```bash
+# 1. View conflicted files
+git status
+
+# 2. Edit files to resolve conflicts (remove conflict markers)
+# 3. Mark as resolved
+git add <resolved-file>
+
+# 4. Complete merge
+git commit
+```
+
+### Update fork from original repository
+```bash
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+```
+
+## 💡 Best Practices
+
+- ✅ Commit often with clear, descriptive messages
+- ✅ Pull before you push to avoid conflicts
+- ✅ Use branches for new features/fixes
+- ✅ Review changes before committing (`git diff`)
+- ✅ Keep commits focused (one logical change per commit)
+- ✅ Write commit messages in present tense: "Add feature" not "Added feature"
+- ✅ Test before committing
+- ❌ Don't commit sensitive information (passwords, API keys)
+- ❌ Don't use `--force` unless absolutely necessary
+- ❌ Don't commit large binary files 
+
+
+
