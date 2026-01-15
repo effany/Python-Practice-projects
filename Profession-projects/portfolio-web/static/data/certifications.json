@@ -1,0 +1,37 @@
+[
+  {
+    "title": "GIAC Security Essentials (GSEC)",
+    "issuer": "SANS Institute",
+    "start": "2024",
+    "end": null,
+    "is_current": true
+  },
+  {
+    "title": "Cisco Certified Interviewer Training",
+    "issuer": "Cisco System",
+    "start": "2024",
+    "end": null,
+    "is_current": true
+  },
+  {
+    "title": "SUSE Certified Engineer (SCE) - Linux Enterprise Server 15",
+    "issuer": "SUSE Linux",
+    "start": "2021",
+    "end": null,
+    "is_current": true
+  },
+  {
+    "title": "SUSE Certified Administrator (SCA) - Enterprise Linux 15",
+    "issuer": "SUSE Linux",
+    "start": "2020",
+    "end": null,
+    "is_current": true
+  },
+  {
+    "title": "Cisco Certified DevNet Associate (200-901)",
+    "issuer": "Cisco System",
+    "start": "2024",
+    "end": "2027-05",
+    "is_current": false
+  }
+]

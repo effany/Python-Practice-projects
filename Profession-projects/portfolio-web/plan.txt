@@ -1,0 +1,2 @@
+1. use the bootstrape for sections
+2. for rendering route, I can use the flask to multiple page web

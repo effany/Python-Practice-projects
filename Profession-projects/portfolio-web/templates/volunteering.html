@@ -1,0 +1,27 @@
+<section class="third-bg-color">
+  <div class="container py-5" id="featured-3">
+    <h2 class="pb-2 border-bottom py-5">Volunteerings</h2>
+    <div class="row">
+    {%for v in volunteering:%}
+    <div class="col m-2">
+        <h4>{{v.role}}</h4>
+        <div class="row flex-column">
+             <p class="col">{{v.organization}} - {{v.location}}</p>
+             <i class="bi bi-envelope col envelop-icon p-3" 
+              data-bs-toggle="collapse" 
+              data-bs-target="#details{{loop.index}}" 
+              style="cursor: pointer;"
+              onmouseover="this.classList.remove('bi-envelope'); this.classList.add('bi-envelope-open');"
+              onmouseout="this.classList.remove('bi-envelope-open'); this.classList.add('bi-envelope');">
+            </i>
+        </div>
+        <div id="details{{loop.index}}" class="collapse">
+        {%for r in v.responsibilities%}
+          <li>{{r}}</li>
+        {%endfor%}
+        </div>
+    </div>
+    {%endfor%}
+    </div>
+  </div>
+</section>

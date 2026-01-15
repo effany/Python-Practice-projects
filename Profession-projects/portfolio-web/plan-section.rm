@@ -1,0 +1,274 @@
+Simple Personal Website Plan (Pages + Content Only)
+
+Pages
+- Home
+  - Hero: name, role/title, 1-line value proposition
+  - Primary CTA: Contact; Secondary: Projects or Resume
+  - Highlights: 3 flagship projects (title, 1–2 line impact, stack, links)
+  - Skills snapshot: 5–10 key skills grouped (e.g., Languages, Frameworks, Data/ML)
+  - Experience snapshot: 2–3 roles with one metric-driven bullet each
+  - Social links: GitHub, LinkedIn, Email
+
+- Projects
+  - Intro: one sentence about what you build and enjoy
+  - For each project:
+    - Title and short tagline (outcome-oriented)
+    - 2–4 bullets with measurable results (before → after where possible)
+    - Tech stack tags
+    - Links: GitHub, Live Demo, Case Study (optional)
+  - Optional: filter by category (All, Data/ML, Web, Automation)
+
+- About
+  - Short bio (3–5 sentences): who you are, focus areas, impact, what you’re seeking
+  - What I do now: 3–5 focus areas or services
+  - Selected experience: compact list with 1 impact bullet per role
+  - Education/Certifications (one-liners)
+  - Personal/volunteering interests (optional, brief)
+
+- Resume
+  - Download latest PDF (link)
+  - Optional inline summary: top 3 achievements or skills
+
+- Contact
+  - Openness: roles/opportunities you’re open to
+  - Email button and LinkedIn link
+  - Optional contact form: name, email, message
+
+Optional Sections/Pages
+- Blog: 3–5 posts that showcase depth (problem → approach → results → lessons)
+- Testimonials: 2–3 quotes with names/titles/company
+- Speaking/Writing: talks, publications, posts with links
+- Open Source: notable repos and contributions
+
+Content Formulas (to keep copy concise and impactful)
+- Project bullet: <Action> <what> using <tools>, resulting in <metric> (<before> → <after>).
+- Experience bullet: <Improved/Built/Led> <system/process> for <audience>, achieving <metric> using <method/tools>.
+
+That’s it—no architecture or technical details included in this plan.# Personal Site Plan (Sections + Content)
+
+Goal: Turn resume content into a clear, scannable, metrics-driven personal website. Primary audiences: recruiters/hiring managers, collaborators/clients.
+
+---
+
+## Information Architecture
+- Pages: Home, Projects, About, Resume (PDF), Blog (optional), Contact
+- Global Nav: Home • Projects • About • Blog • Contact
+- Footer: Email • LinkedIn • GitHub • Location • Copyright
+- CTAs: "Contact Me", "View Resume", "Book a Call" (choose one primary)
+
+---
+
+## Sections (Home Page)
+
+1) Hero
+- Purpose: 5-second pitch + primary CTA
+- Content:
+  - Headline: "<Role/Title> specializing in <domains>"
+  - Subhead: "I build <outcomes> using <skills/tools>—impacting <metrics>."
+  - Primary CTA: "Contact Me"; Secondary CTA: "View Projects" or "Download Resume"
+  - Quick Links: GitHub • LinkedIn • Email
+
+2) Credibility Bar (Optional)
+- Logos: employers, clients, publications, conferences, or notable affiliations
+- Alternative: key numbers ("8+ years", "5 deployed products", "$X saved")
+
+3) Highlight Projects (Top 3)
+- For each: title, 1–2 line impact summary, 3–5 bullet highlights
+- Include metrics (speedups, revenue, adoption, accuracy, uptime, cost savings)
+- Buttons: "Case Study" and/or "GitHub"
+
+4) Experience Snapshot
+- 2–4 roles condensed with quantifiable outcomes
+- Format: Company • Title • Dates • 1–2 achievement bullets with metrics
+- Link: "View full experience" → About page
+
+5) Skills Matrix
+- Grouped by category: Languages, Frameworks, Data/ML, Cloud/DevOps, Tools
+- Emphasize depth and recency; optionally tag with proficiency or years
+
+6) Testimonials (Optional)
+- 1–3 short quotes from managers/peers/clients with names/titles
+
+7) Contact / CTA Section
+- Short invite: "Open to <roles/opportunities>"
+- Email button, calendar link (if applicable), social links
+
+---
+
+## Projects Page
+- Grid/List with filters: All • Data/ML • Backend • Web • Open Source
+- Card Fields:
+  - Title, short tagline
+  - 2–3 bullets with outcomes + metrics
+  - Tech stack tags
+  - Links: GitHub, Live Demo, Case Study
+- Case Study Template:
+  - Context: problem, constraints, users
+  - Role: what you owned
+  - Approach: architecture, decisions, trade-offs
+  - Results: measurable outcomes with before/after
+  - Visuals: diagrams, screenshots
+  - Code: key repo links or snippets (if public)
+
+---
+
+## About Page
+- Short Bio (3–5 sentences):
+  - Who you are, what you do, what you’ve shipped/achieved
+  - Domains (e.g., data platforms, ML, web apps) + industries (if relevant)
+  - Your value proposition and what you’re seeking next
+- Timeline Snapshot (Optional):
+  - Roles with 1–2 impact bullets each
+- Education, Certifications, Awards (compact)
+- Personal: interests, communities, volunteering (optional, 1 short paragraph)
+
+---
+
+## Resume Page
+- One-click PDF download (latest resume)
+- Notes: keep filename stable (e.g., yichen-resume.pdf). Ensure accessibility tags in PDF.
+
+---
+
+## Blog (Optional)
+- Topics aligned to resume strengths: engineering guides, case studies, postmortems
+- Post structure:
+  - Problem → Approach → Code/Diagrams → Results → Lessons → Next steps
+- Cadence: Aim for 3 strong posts that showcase depth
+
+---
+
+## Contact Page
+- Friendly copy: "Let’s build something impactful."
+- Options: Email (direct link), LinkedIn, GitHub, calendar booking (optional)
+- Form (optional): name, email, message; spam-safe; success/failure states
+
+---
+
+## Content Templates (Fill-in-the-Blank)
+
+Hero Headline
+- "<Role/Title> specializing in <primary domains>"
+
+Hero Subhead
+- "I help <audience> achieve <outcome> using <skills/tools>, delivering <metric impact>."
+
+Project Bullet Formula
+- "<Action> <what> using <tools>, resulting in <metric> (<before> → <after>)."
+
+Experience Bullet Formula
+- "<Led/Built/Optimized> <system/process> that <impact> by <metric>, used by <users/teams>."
+
+Skills Matrix
+- Languages: <Python, JS/TS, …>
+- Frameworks: <Flask/FastAPI/Django, React, …>
+- Data/ML: <NumPy/Pandas/Scikit-learn, …>
+- Cloud/DevOps: <AWS/GCP/Azure, Docker, CI/CD>
+- Tools: <Git, Terraform, Airflow, dbt, …>
+
+CTA Copy
+- "Open to <roles/opportunities>. Let’s connect."
+
+---
+
+## Writing Prompts (to extract metrics from your resume)
+- What improved? Time, cost, accuracy, reliability, revenue, adoption, latency, throughput
+- How much? %, absolute values, counts, ranges
+- For whom? users, teams, customers, regions
+- How validated? A/B tests, benchmarks, revenue reports, incident counts
+
+---
+
+## Visual/Brand Guidelines
+- Tone: clean, professional, accessible
+- Palette: 1 primary, 1 accent, neutral grays
+- Typography: readable sans-serif; consistent sizes/scale
+- Imagery: product screenshots, charts, tasteful code snippets
+
+---
+
+## Technical Plan (suggested)
+- Stack: Static site (Next.js or Astro) or simple Flask/HTML if preferred
+- Data-driven content: YAML/JSON files for projects and experience
+- Components: Hero, ProjectCard, SkillsGrid, ExperienceList, ContactForm
+- Performance: static export, image optimization, lazy-loading
+- Analytics: lightweight (e.g., Plausible), cookie-less if possible
+- SEO: metadata per page, Open Graph images, sitemap, robots.txt
+
+---
+
+## Accessibility & Performance Checklist
+- Color contrast AA+, focus states, keyboard nav
+- Semantic HTML landmarks, alt text, labels
+- Lighthouse: Performance ≥ 90, Accessibility ≥ 95
+- Image optimization (responsive sizes, modern formats)
+
+---
+
+## Deployment
+- Options: GitHub Pages, Vercel, Netlify, or S3/CloudFront
+- CI: on push to main → build → deploy
+- Custom domain + HTTPS
+
+---
+
+## Content Inventory (to prepare)
+- Latest resume PDF (export, tagged for accessibility)
+- Headshot (optional), logos/screenshots (approved for use)
+- Links: GitHub repos, live demos, notebooks, talks
+- 3–5 flagship projects with metrics and visuals
+- 2–4 condensed experience bullets with numbers
+
+---
+
+## Roadmap
+- Phase 1: Content
+  - Finalize hero, 3 flagship projects, experience snapshot, skills, contact
+- Phase 2: Build
+  - Scaffold project, implement components, load content from data files
+- Phase 3: Polish
+  - SEO, analytics, performance, accessibility, responsive testing
+- Phase 4: Ship
+  - Connect domain, set up CI/CD, post-launch checklist
+
+---
+
+## Data File Examples (for a content-first build)
+
+projects.yaml
+- id: <slug>
+  title: <Project Title>
+  tagline: <1-line outcome>
+  highlights:
+    - <metric bullet>
+    - <metric bullet>
+  stack: [Python, Flask, PostgreSQL]
+  links:
+    github: <url>
+    demo: <url>
+    caseStudy: <url or page>
+
+experience.yaml
+- company: <Company>
+  title: <Role>
+  dates: <YYYY–YYYY>
+  bullets:
+    - <metric bullet>
+    - <metric bullet>
+
+skills.yaml
+- languages: [Python, JavaScript, TypeScript, …]
+- frameworks: [Flask, FastAPI, React, …]
+- data_ml: [NumPy, Pandas, scikit-learn, …]
+- cloud_devops: [AWS, Docker, CI/CD, …]
+- tools: [Git, Airflow, dbt, Terraform, …]
+
+---
+
+## Final QA Checklist
+- Spelling/grammar pass; all links valid
+- Mobile and desktop layouts verified
+- CTAs clear and visible on every page
+- Resume download works; PDF filename stable
+- Social previews (Open Graph/Twitter cards) display correctly
+
