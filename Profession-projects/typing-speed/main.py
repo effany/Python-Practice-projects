@@ -8,7 +8,8 @@ from datetime import datetime, timedelta
 game_state = {
     'words_array': [],
     'score': 0,
-    'end_time': None
+    'end_time': None,
+    'counted_words': set()  # Track words already counted
 }
 
 # UI Components (initialized once)
@@ -41,6 +42,7 @@ def reset_game():
     game_state['words_array'] = RandomWordsGenerator().get_random_words(200)
     game_state['score'] = 0
     game_state['end_time'] = None
+    game_state['counted_words'] = set()  # Reset counted words
     
     # Update text box
     text_box.config(state=NORMAL)
@@ -90,11 +92,14 @@ def game():
     
     if datetime.now() < end_time:
         user_current_entry = user_text_entry.get("1.0", 'end-1c')
-        last_word = user_current_entry.split()[-1] if user_current_entry else ""
+        words_typed = user_current_entry.split()
         
-        if last_word and last_word in game_state['words_array']:
-            highlight_word(last_word)
-            game_state['score'] += 1
+        # Check all completed words (not the last one being typed)
+        for word in words_typed:
+            if word in game_state['words_array'] and word not in game_state['counted_words']:
+                highlight_word(word)
+                game_state['counted_words'].add(word)
+                game_state['score'] += 1
         
         window.after(150, game)
     else:
