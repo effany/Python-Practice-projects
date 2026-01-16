@@ -1,0 +1,3 @@
+1. Randomly generate text
+2. detect start and end ( 1 min), when start, the timer start
+3. highlight the word when it's typed 
