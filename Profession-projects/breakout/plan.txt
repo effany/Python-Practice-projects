@@ -1,0 +1,7 @@
+1. graphical interface, randomly generated blocks. 
+2. create paddle, which I can control by key boards
+3. the ball with bouncing /moving logic 
+4. the speed increase by hits 
+5. the block removing logic 
+6. use turtle for the interface
+7. block shapes are 5 colors, each row has 1 color, and each row will have random shape of blocks. 
