@@ -1,0 +1,39 @@
+<html>
+{%include 'header.html'%}
+{%from 'bootstrap5/form.html' import render_form %}
+<body>
+<div class="cafe_container">
+    <div class="container mt-5 pt-5">
+         {% if key %}
+         <div class="alert alert-warning" role="alert">
+            <span id="api-key">{{key}}</span>
+            <button onclick="copyToClipboard()" class="ml-5 btn btn-outline-dark">Copy to Clipboard</button>
+        </div>
+        <script>
+        function copyToClipboard() {
+            const keyText = document.getElementById('api-key').innerText;
+            navigator.clipboard.writeText(keyText).then(() => {
+                alert('API Key copied to clipboard!');
+            }).catch(err => {
+                console.error('Failed to copy:', err);
+            });
+        }
+        </script>
+         {% endif %}
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            {% for message in messages %}
+              <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                {{ message }}
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+              </div>
+            {% endfor %}
+          {% endif %}
+        {% endwith %}
+        {{render_form(form)}}
+       
+    </div>
+</div>
+{%include 'footer.html'%}
+</body>
+</html>

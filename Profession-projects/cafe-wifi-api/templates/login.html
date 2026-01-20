@@ -1,0 +1,22 @@
+<html>
+{%include 'header.html'%}
+{%from 'bootstrap5/form.html' import render_form %}
+<body>
+<div class="cafe_container">
+    <div class="container mt-5 pt-5">
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            {% for message in messages %}
+              <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                {{ message }}
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+              </div>
+            {% endfor %}
+          {% endif %}
+        {% endwith %}
+        {{render_form(form)}}
+    </div>
+</div>
+{%include 'footer.html'%}
+</body>
+</html>

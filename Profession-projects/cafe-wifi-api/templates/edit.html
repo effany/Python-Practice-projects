@@ -1,0 +1,11 @@
+<html>
+    {%include 'header.html'%}
+    {%from 'bootstrap5/form.html' import render_form%}
+    <body>
+        <div class="cafe_container">
+            <div class="container mt-5 pt-5">
+                {{render_form(form)}}
+            </div>
+        </div>
+    </body>
+</html>
