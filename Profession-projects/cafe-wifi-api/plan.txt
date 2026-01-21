@@ -1,8 +1,0 @@
-1. UI set up v
-2. DB set up (with cafe data ), render cafe to UI v
-3. connect buttons to add/remove cafe 
-4. add api endpoint
-5. register users v
-6. search function
-7. likes v
-8. more - comments,details v

@@ -14,6 +14,7 @@ import random
 import string
 import secrets
 import pyperclip
+from unidecode import unidecode
 
 load_dotenv()
 
@@ -68,7 +69,7 @@ def user_only(f):
     def decorated_function(*args, **kwargs):
         if not current_user.is_authenticated:
             return abort(403)
-        return f(*args, *kwargs)
+        return f(*args, **kwargs)
     return decorated_function
 
 with app.app_context():
@@ -83,6 +84,25 @@ def home():
     cafes_list = [cafe.to_dict() for cafe in cafes]
     return render_template('index.html', cafes = cafes_list)
 
+@app.route('/search')
+def search():
+    search_query = request.args.get('search')
+    
+    if search_query:
+        normalized_query = unidecode(search_query).lower()
+        
+        # Get all cafes and filter in Python (for accent-insensitive search)
+        all_cafes = db.session.execute(db.select(Cafe)).scalars().all()
+        cafes = [
+            cafe for cafe in all_cafes 
+            if normalized_query in unidecode(cafe.name).lower() 
+            or normalized_query in unidecode(cafe.location).lower()
+        ]
+        cafes_list = [cafe.to_dict() for cafe in cafes]
+    else:
+        cafes_list = []
+    
+    return render_template('index.html', cafes=cafes_list)
 
 @user_only
 @app.route('/add', methods=['POST', 'GET'])
@@ -139,19 +159,23 @@ def edit_cafe(id):
     )
 
     if form.validate_on_submit():
-        cafe.name = form.name.data
-        cafe.map_url = form.map_url.data
-        cafe.img_url = form.img_url.data
-        cafe.location = form.location.data
-        cafe.seats = form.seats.data
-        cafe.coffee_price = form.coffee_price.data
-        cafe.has_toilet = form.has_toilet.data
-        cafe.has_wifi = form.has_wifi.data
-        cafe.has_sockets = form.has_sockets.data
-        cafe.can_take_calls = form.can_take_calls.data
-        
-        db.session.commit()
-        return redirect(url_for('home'))
+        if form.delete.data:
+            db.session.delete(cafe)
+            db.session.commit()
+            return redirect(url_for('home'))
+        elif form.submit.data:
+            cafe.name = form.name.data
+            cafe.map_url = form.map_url.data
+            cafe.img_url = form.img_url.data
+            cafe.location = form.location.data
+            cafe.seats = form.seats.data
+            cafe.coffee_price = form.coffee_price.data
+            cafe.has_toilet = form.has_toilet.data
+            cafe.has_wifi = form.has_wifi.data
+            cafe.has_sockets = form.has_sockets.data
+            cafe.can_take_calls = form.can_take_calls.data
+            db.session.commit()
+            return redirect(url_for('home'))
 
     return render_template('edit.html', form=form, id=id)
 
@@ -282,4 +306,75 @@ def api_add_cafe():
         db.session.rollback()
         return jsonify({'error': f'Some error occur: {e}'}), 400
     
+@app.route('/delete/<int:id>', methods=["DELETE"])
+def delete(id):
+    user_key = request.headers.get("Authorization")
+    
+    if not user_key:
+        return jsonify({'error': 'You need an valid API key to proceed'})
 
+    user = db.session.execute(db.select(User).where(User.api_key == user_key)).scalar()
+
+    if not user:
+        return  jsonify({'error': 'You need an valid API key to proceed'})
+    
+    current_cafe = db.session.execute(db.select(Cafe).where(Cafe.id == id)).scalar()
+
+    if not current_cafe:
+        return jsonify({'error': 'Cafe not found'}), 404
+    
+    if user and current_cafe:
+        try:
+            db.session.delete(current_cafe)
+            db.session.commit()
+            return jsonify({'success': 'Cafe deleted successfully'}), 200
+        except Exception as e:
+            db.session.rollback()
+            return jsonify({'error': f'Some error occur: {e}'}), 400
+
+@app.route('/update_cafe/<int:id>', methods=["PUT", "PATCH"])
+def api_update_cafe(id):
+    api_key = request.headers.get("Authorization")
+    
+    if not api_key:
+        return jsonify({'error': 'API key is required'}), 401
+    
+    user = db.session.execute(db.select(User).where(User.api_key == api_key)).scalar()
+    if not user:
+        return jsonify({'error': 'Invalid API key'}), 401
+    
+    cafe = db.session.execute(db.select(Cafe).where(Cafe.id == id)).scalar()
+    if not cafe:
+        return jsonify({'error': 'Cafe not found'}), 404
+    
+    # Get JSON data from request body
+    data = request.json
+    
+    try:
+        # Update only provided fields
+        if 'name' in data:
+            cafe.name = data['name']
+        if 'location' in data:
+            cafe.location = data['location']
+        if 'map_url' in data:
+            cafe.map_url = data['map_url']
+        if 'img_url' in data:
+            cafe.img_url = data['img_url']
+        if 'seats' in data:
+            cafe.seats = data['seats']
+        if 'coffee_price' in data:
+            cafe.coffee_price = data['coffee_price']
+        if 'has_wifi' in data:
+            cafe.has_wifi = bool(data['has_wifi'])
+        if 'has_toilet' in data:
+            cafe.has_toilet = bool(data['has_toilet'])
+        if 'has_sockets' in data:
+            cafe.has_sockets = bool(data['has_sockets'])
+        if 'can_take_calls' in data:
+            cafe.can_take_calls = bool(data['can_take_calls'])
+        
+        db.session.commit()
+        return jsonify({'success': 'Cafe updated successfully', 'cafe': cafe.to_dict()}), 200
+    except Exception as e:
+        db.session.rollback()
+        return jsonify({'error': f'Update failed: {e}'}), 400

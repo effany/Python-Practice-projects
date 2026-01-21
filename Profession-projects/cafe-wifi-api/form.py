@@ -27,7 +27,9 @@ class EditForm(FlaskForm):
     has_wifi = BooleanField('Has WiFi')
     has_sockets = BooleanField('Has Power Sockets')
     can_take_calls = BooleanField('Can Take Calls')
-    submit = SubmitField('Update Cafe')
+    submit = SubmitField('Update Cafe', render_kw={'class': 'btn btn-primary'})
+    delete = SubmitField('Delete Cafe', render_kw={'class': 'btn btn-danger'})
+    
 
 
 
