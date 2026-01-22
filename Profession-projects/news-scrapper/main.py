@@ -34,8 +34,6 @@ WebDriverWait(driver, 10).until(
 
 time.sleep(3)
 
-# Now get the articles from the new Business page
-# Article link with text
 titles = driver.find_elements(By.XPATH, "//a[contains(@href, './read/') and normalize-space(text())]")
 
 file_exists = os.path.isfile('collection.csv')

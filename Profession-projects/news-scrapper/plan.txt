@@ -1,7 +1,0 @@
-1. go to google news -> Business 
-2. grab headlines of 10 tops news and links
-3. add to csv, push to whatsapp
-https://news.google.com/home?hl=en-US&gl=US&ceid=US:en
-
-
-
