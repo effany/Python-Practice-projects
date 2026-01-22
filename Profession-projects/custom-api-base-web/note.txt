@@ -1,0 +1,16 @@
+1. use this website 
+
+https://www.marketwatch.com/
+
+2. search stock with symbol 
+
+3. pick the first one, click into it. Extract the price
+
+4. compare to the threshold we set. 
+
+5. if over,  send a whatsapp message with news using news API "https://www.alphavantage.co/"
+
+
+
+
+
