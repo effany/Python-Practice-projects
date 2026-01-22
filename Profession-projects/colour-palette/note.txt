@@ -1,0 +1,23 @@
+1. image process logic
+
+# noise = np.random.randint(0, 256, (128,128,3))
+# plt.imshow(noise)
+# plt.show()
+
+
+
+# print(img.format)
+# print(img.size)
+# print(img.mode)
+# PNG
+#(736, 548)
+#RGBA
+
+# np_array = asarray(img)
+# print(np_array.shape)
+
+
+#print(np_array.shape)
+
+# 548 height, 736 width and RGBA (r,g,b and alpha which control the transparency)
+#print(np_array[2])
