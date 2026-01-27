@@ -16,10 +16,6 @@ x = -150
 
 ships = []
 
-# Get the window size you set
-width = my_screen.window_width()
-height = my_screen.window_height()
-
 for i in range(8):
     ships.append(SpaceShipManager(x, 300))
     ships.append(SpaceShipManager(x, 250))
@@ -31,6 +27,11 @@ my_screen.update()
 obstacle_manager = ObstacleManager("Cum Shoot Me")
 player = Player()
 my_screen.listen()
+
+# Register key bindings once
+my_screen.onkeypress(key="Right", fun=player.right)
+my_screen.onkeypress(key="Left", fun=player.left)
+my_screen.onkeypress(key="space", fun=player.load)
 
 bullet_timer = 0
 alien_bullets = []  
@@ -61,14 +62,9 @@ while True:
     for ship in ships:
         ship.move()
         current_x = ship.xcor()
-        cuurent_y = ship.ycor()
 
-        if current_x > 300:
+        if current_x > 300 or current_x < -300:
             ship.bounce_x()
-            ship.move()
-        elif current_x < -300:
-            ship.bounce_x()
-            ship.move()
     
     # Move all active bullets
     for bullet in alien_bullets:
@@ -83,10 +79,6 @@ while True:
         bullet = Bullet(random_ship.xcor(), random_ship.ycor())
         alien_bullets.append(bullet)
         bullet_timer = 0
-
-    my_screen.onkeypress(key="Right", fun=player.right)
-    my_screen.onkeypress(key="Left", fun=player.left)
-    my_screen.onkeypress(key="space", fun=player.load)
 
     ## gaming logic
 
@@ -121,12 +113,15 @@ while True:
             player.bullets.remove(player_bullet)
     
     for player_bullet in player.bullets[:]:
-        for alien_bullet in alien_bullets:
+        for alien_bullet in alien_bullets[:]:
             if player_bullet.distance(alien_bullet) < 20:
                 player_bullet.hideturtle()
                 alien_bullet.hideturtle()
-                alien_bullets.remove(alien_bullet)
-                player.bullets.remove(player_bullet)
+                if alien_bullet in alien_bullets:
+                    alien_bullets.remove(alien_bullet)
+                if player_bullet in player.bullets:
+                    player.bullets.remove(player_bullet)
+                break
             
     ## game over logic
 

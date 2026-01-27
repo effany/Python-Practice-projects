@@ -34,9 +34,7 @@ class Player(Turtle):
             self.screen.update()
 
     def load(self):
-        if len(self.bullets) >= 5:
-            pass
-        else:
+        if len(self.bullets) < 5:
             bullet = Turtle()
             bullet.shape('circle')
             bullet.shapesize(0.5,0.5)
