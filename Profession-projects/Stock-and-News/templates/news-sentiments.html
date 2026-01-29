@@ -1,0 +1,29 @@
+
+{%include 'header.html'%}
+{%include 'nav.html'%}
+
+<!-- {{news}} -->
+<div class="m-5">
+    <div class="row">
+        {%for post in news["feed"]%}
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="{{post['banner_image']}}" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">{{post['title']}}</h5>
+                    <p class="card-text">{{post['summary']}}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">{{post['source']}}</li>
+                    <li class="list-group-item">{{post['time_published'][:4]}}-{{post['time_published'][4:6]}}-{{post['time_published'][6:8]}}</li>
+                </ul>
+                <div class="card-body">
+                    <a href="{{post['url']}}" class="card-link">Read More...</a>
+                </div>
+            </div>
+        </div>
+        {%endfor%}
+    </div>
+</div>
+
+{%include 'footer.html'%}

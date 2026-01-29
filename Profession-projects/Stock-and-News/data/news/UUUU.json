@@ -1,0 +1,1991 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Energy Fuels (UUUU) Rockets Near 12-Year High as DOE Unveils New Nuclear Program",
+            "url": "https://finviz.com/news/291105/energy-fuels-uuuu-rockets-near-12-year-high-as-doe-unveils-new-nuclear-program",
+            "time_published": "20260128T221900",
+            "authors": [
+                "Angelica Ballesteros"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) stock soared to a nearly 12-year high after the Department of Energy (DOE) announced a new initiative to support and accelerate the US nuclear sector. The DOE's plan includes establishing \"Nuclear Lifecycle Innovation Campuses\" to explore activities such as recycling used nuclear fuel. Investment firm Roth also upgraded Energy Fuels to \"neutral\" from \"sell,\" citing optimism for near-term catalysts and higher uranium spot prices.",
+            "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/01/28221728/Screenshot-2026-01-29-at-11.17.00%E2%80%AFAM-768x400.png",
+            "source": "Finviz",
+            "category_within_source": "General",
+            "source_domain": "Finviz",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.931967"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.814991"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.739978"
+                }
+            ],
+            "overall_sentiment_score": 0.844591,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.819505",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels leads nuclear names higher as DoE launches steps to boost nuke fuel supply chain",
+            "url": "https://seekingalpha.com/news/4543755-energy-fuels-leads-nuclear-names-higher-as-doe-launches-steps-to-boost-nuke-fuel-supply-chain",
+            "time_published": "20260128T210036",
+            "authors": [
+                "Carl Surran"
+            ],
+            "summary": "Energy Fuels (UUUU) saw a significant rally, reaching its highest point in nearly 15 years, following an announcement from the Department of Energy. The DoE revealed an initiative aimed at strengthening the U.S. nuclear fuel supply chain, which subsequently boosted other nuclear technology stocks.",
+            "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1270632735/image_1270632735.jpg?io=getty-c-w630",
+            "source": "Seeking Alpha",
+            "category_within_source": "General",
+            "source_domain": "Seeking Alpha",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.904876"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.822210"
+                },
+                {
+                    "topic": "economy_fiscal",
+                    "relevance_score": "0.740674"
+                }
+            ],
+            "overall_sentiment_score": 0.460435,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.459938",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels stock price jumps nearly 11% on Roth upgrade as uranium spot hits $91 — traders watch what comes next",
+            "url": "https://ts2.tech/en/energy-fuels-stock-price-jumps-nearly-11-on-roth-upgrade-as-uranium-spot-hits-91-traders-watch-what-comes-next/",
+            "time_published": "20260128T185947",
+            "authors": [
+                "Shan Ahmed Khan"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) saw its stock price jump almost 11% after Roth MKM upgraded its rating to neutral, citing improved near-term catalysts and sentiment, despite setting a price target below the current trading level. This surge comes as the uranium spot price reached $91.10 a pound, fueled by significant purchases from the Sprott Physical Uranium Trust. Additionally, traders are closely monitoring the proposed acquisition of Australian Strategic Materials by Energy Fuels, which is valued at approximately A$447 million and is anticipated to close around June 2026.",
+            "banner_image": "https://ts2.tech/wp-content/uploads/2026/01/energy-fuels-stock-price-jumps-nearly-11-on-roth-upgrade-as-uranium-spot-hits-91-traders-watch-what-comes-next-featured.jpg",
+            "source": "TechStock²",
+            "category_within_source": "General",
+            "source_domain": "TechStock²",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.939935"
+                },
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.838406"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.915238"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.606583"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "1.000000"
+                }
+            ],
+            "overall_sentiment_score": 0.358718,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "0.983347",
+                    "ticker_sentiment_score": "0.494229",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CME",
+                    "relevance_score": "0.626196",
+                    "ticker_sentiment_score": "0.313694",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.608954",
+                    "ticker_sentiment_score": "0.333473",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.620999",
+                    "ticker_sentiment_score": "0.302400",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.644914",
+                    "ticker_sentiment_score": "0.323176",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UUUU vs. CCJ: Which Uranium Miner is the Better Buy Now?",
+            "url": "https://www.tradingview.com/news/zacks:8f98d66d1094b:0-uuuu-vs-ccj-which-uranium-miner-is-the-better-buy-now/",
+            "time_published": "20260128T135947",
+            "authors": [
+                "Zacks"
+            ],
+            "summary": "This article compares Energy Fuels (UUUU) and Cameco (CCJ), two prominent uranium miners, to determine which offers a more compelling investment opportunity. While Energy Fuels benefits from its strategic U.S. presence and diversification into rare earths, it faces projected losses and an expensive valuation. Cameco, with its global scale, asset quality, improving earnings, and more reasonable valuation, is considered the better buy.",
+            "banner_image": "https://s3.tradingview.com/news/image/zacks:8f98d66d1094b-dc5c6790970304b9df8eb25e893ca88f-resized.webp",
+            "source": "TradingView",
+            "category_within_source": "General",
+            "source_domain": "TradingView",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.918008"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.902610"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.846325"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.614475"
+                }
+            ],
+            "overall_sentiment_score": 0.132975,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "0.974522",
+                    "ticker_sentiment_score": "0.143263",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Universal Beteiligungs und Servicegesellschaft mbH Has $4.86 Million Position in Energy Fuels Inc $UUUU",
+            "url": "https://www.marketbeat.com/instant-alerts/filing-universal-beteiligungs-und-servicegesellschaft-mbh-has-486-million-position-in-energy-fuels-inc-uuuu-2026-01-28/",
+            "time_published": "20260128T135946",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "Universal Beteiligungs und Servicegesellschaft mbH significantly increased its stake in Energy Fuels Inc. (NYSEAMERICAN:UUUU) by 224.4% in the third quarter, now holding 316,525 shares valued at approximately $4.86 million. Despite recent insider stock sales totaling $6.94 million from executives like VP Curtis Moore and EVP Timothy Carstens, analysts maintain a \"Moderate Buy\" rating with an average target price of $23.08, while the stock trades near $24.16. Energy Fuels, a U.S.-based mineral resources company, focuses on producing uranium, rare earth elements, and other strategic minerals, operating the only conventional uranium-vanadium mill in the U.S.",
+            "banner_image": "https://www.marketbeat.com/logos/energy-fuels-inc-logo-1200x675.png?v=20240923144837",
+            "source": "MarketBeat",
+            "category_within_source": "General",
+            "source_domain": "MarketBeat",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.841587"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.938342"
+                }
+            ],
+            "overall_sentiment_score": -0.081224,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.085559",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels stock rating upgraded to Neutral by Roth/MKM on uranium outlook",
+            "url": "https://www.investing.com/news/analyst-ratings/energy-fuels-stock-rating-upgraded-to-neutral-by-rothmkm-on-uranium-outlook-93CH-4469216",
+            "time_published": "20260128T072749",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "Roth/MKM has upgraded Energy Fuels (NYSE:UUUU) from Sell to Neutral and raised its price target to $15.50 from $13.00, citing \"near-term catalysts and sentiment\" that are \"likely to lean positive.\" Despite the stock's significant surge over the past year, Roth/MKM believes strong market sentiment and a rising uranium spot price will offset any potential near-term correction, even though InvestingPro analysis suggests the stock may be overvalued compared to the new price target. The company recently announced plans to acquire Australian Strategic Materials Limited and exceeded its uranium production guidance for 2025.",
+            "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+            "source": "Investing.com",
+            "category_within_source": "General",
+            "source_domain": "Investing.com",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.912155"
+                },
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.829695"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.713838"
+                }
+            ],
+            "overall_sentiment_score": 0.323548,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.345594",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Intact Investment Management Inc. Purchases Shares of 77,200 Energy Fuels Inc $UUUU",
+            "url": "https://www.marketbeat.com/instant-alerts/filing-intact-investment-management-inc-purchases-shares-of-77200-energy-fuels-inc-uuuu-2026-01-27/",
+            "time_published": "20260127T092748",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "Intact Investment Management Inc. initiated a new position in Energy Fuels Inc (UUUU) during Q3, acquiring 77,200 shares valued at approximately $1.19 million. This investment contributes to institutional ownership of about 48.24% in the company, despite recent insider selling totaling $6.94 million. Energy Fuels' stock has seen recent analyst price target adjustments and holds an average \"Hold\" rating.",
+            "banner_image": "https://www.marketbeat.com/logos/energy-fuels-inc-logo-1200x675.png?v=20240923144837",
+            "source": "MarketBeat",
+            "category_within_source": "General",
+            "source_domain": "MarketBeat",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.946230"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.730800"
+                }
+            ],
+            "overall_sentiment_score": -0.113625,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.122772",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels (UUUU) Sheds 8.5% on Profit-Taking After 3-Month High",
+            "url": "https://www.insidermonkey.com/blog/energy-fuels-uuuu-sheds-8-5-on-profit-taking-after-3-month-high-1681998/",
+            "time_published": "20260127T050300",
+            "authors": [
+                "Angelica Ballesteros"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) saw its share prices drop by 8.51% due to profit-taking after reaching a three-month high, nearly touching its 52-week record. This occurred despite a prior rally that brought its share price close to its annual high. The company recently acquired Australian Strategic Materials Ltd. for $299 million with the goal of becoming the largest fully integrated rare earth element producer outside of China.",
+            "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/04/27024938/uranium-63095_1280.jpg?auto=format&fit=clip&expires=1801008000&width=480&height=384",
+            "source": "Insider Monkey",
+            "category_within_source": "General",
+            "source_domain": "Insider Monkey",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.916617"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.841314"
+                },
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.946257"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.738424"
+                }
+            ],
+            "overall_sentiment_score": 0.031309,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.185236",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "EQT",
+                    "relevance_score": "0.635233",
+                    "ticker_sentiment_score": "0.165564",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels (UUUU) Sheds 8.5% on Profit-Taking After 3-Month High",
+            "url": "https://finance.yahoo.com/news/energy-fuels-uuuu-sheds-8-100321872.html",
+            "time_published": "20260127T050300",
+            "authors": [
+                "Angelica Ballesteros"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) saw an 8.5% drop in its share price due to profit-taking by investors, despite previously reaching a three-month high. The decline followed a significant rally that nearly touched its 52-week record, indicating investors capitalized on recent gains. This volatility comes shortly after the company announced its acquisition of Australian Strategic Materials Ltd. for $299 million, aiming to become a leading integrated rare earth elements producer outside of China.",
+            "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+            "source": "Yahoo Finance",
+            "category_within_source": "General",
+            "source_domain": "Yahoo Finance",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.904035"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.600163"
+                }
+            ],
+            "overall_sentiment_score": 0.019207,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "0.302144",
+                    "ticker_sentiment_score": "0.006167",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels to Acquire Australian Strategic Materials Limited",
+            "url": "https://www.tipranks.com/news/company-announcements/energy-fuels-to-acquire-australian-strategic-materials-limited",
+            "time_published": "20260126T222906",
+            "authors": [
+                "TipRanks Auto-Generated Newsdesk"
+            ],
+            "summary": "Energy Fuels Inc. plans to acquire Australian Strategic Materials Limited (ASM) through a court-approved scheme of arrangement, valuing ASM at approximately A$447 million. ASM shareholders will receive Energy Fuels shares/CDIs and cash, with the deal expected to close around June 2026, subject to various approvals. This acquisition aims to expand Energy Fuels' presence in critical minerals and provide ASM with access to North American capital markets.",
+            "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Energy-10-750x406.jpg",
+            "source": "TipRanks",
+            "category_within_source": "General",
+            "source_domain": "TipRanks",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.828784"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.719782"
+                }
+            ],
+            "overall_sentiment_score": 0.297164,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.280587",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Signs Scheme Implementation Deed With Australian Strategic Materials",
+            "url": "https://www.tradingview.com/news/tradingview:9730d78da96f9:0-energy-fuels-signs-scheme-implementation-deed-with-australian-strategic-materials/",
+            "time_published": "20260126T212906",
+            "authors": [],
+            "summary": "Energy Fuels has signed a Scheme Implementation Deed to acquire all ordinary shares of Australian Strategic Materials (ASM) for an implied value of A$1.60 per ASM share, totaling approximately A$447 million. The acquisition, which aims to expand Energy Fuels' critical minerals and rare earths platform, will result in ASM shareholders owning about 5.8% of Energy Fuels post-closing. The deal is expected to close around June 2026, pending customary approvals.",
+            "banner_image": null,
+            "source": "TradingView",
+            "category_within_source": "General",
+            "source_domain": "TradingView",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.920446"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.721892"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.625112"
+                }
+            ],
+            "overall_sentiment_score": 0.400113,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.426782",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels (NYSE: UUUU) sets A$447M scheme for Australian Strategic Materials",
+            "url": "https://www.stocktitan.net/sec-filings/UUUU/8-k-energy-fuels-inc-reports-material-event-621a8c669e08.html",
+            "time_published": "20260126T212906",
+            "authors": [],
+            "summary": "Energy Fuels Inc. announced a scheme to acquire all ordinary shares of Australian Strategic Materials Limited for approximately A$447 million. Shareholders of Australian Strategic Materials will receive 0.053 Energy Fuels common shares or CHESS Depository Interests, plus a potential A$0.13 special cash dividend per share, resulting in an implied total value of A$1.60 per share. The transaction is subject to various approvals, including shareholder and court endorsement, and is expected to close around June 2026, with current Australian Strategic Materials shareholders owning about 5.8% of Energy Fuels post-acquisition.",
+            "banner_image": null,
+            "source": "Stock Titan",
+            "category_within_source": "General",
+            "source_domain": "Stock Titan",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.813722"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.742409"
+                }
+            ],
+            "overall_sentiment_score": 0.277075,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.281330",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Set to Acquire Australian Strategic Materials",
+            "url": "https://investingnews.com/energy-fuels-acquires-asm/",
+            "time_published": "20260126T175725",
+            "authors": [
+                "Gabrielle De La Cruz"
+            ],
+            "summary": "Energy Fuels is set to acquire Australian Strategic Materials for approximately AU$447 million, creating a \"mine to metal and alloy rare earths champion.\" The acquisition combines ASM's Dubbo rare earths project and Korean Metals Plant with Energy Fuels' existing capabilities to enhance vertical integration and product range. ASM shareholders will receive AU$1.60 per share, a 121% premium, with the transaction expected to be implemented before June 30, 2026.",
+            "banner_image": "https://investingnews.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzU1NzgyMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTgwMjgzNDQxMn0.7YMbr2kVj_axhy8jRUH6S19JFUjH4/image.jpg?width=210",
+            "source": "Investing News Network",
+            "category_within_source": "General",
+            "source_domain": "Investing News Network",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.818022"
+                }
+            ],
+            "overall_sentiment_score": 0.464187,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.499811",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Energy Fuels Stock Dropped Today",
+            "url": "https://www.theglobeandmail.com/investing/markets/stocks/UUUU/pressreleases/37232896/why-energy-fuels-stock-dropped-today/",
+            "time_published": "20260126T175725",
+            "authors": [
+                "Motley Fool"
+            ],
+            "summary": "Energy Fuels (NYSEMKT: UUUU) stock fell by 7% despite rising uranium prices and positive news for global uranium demand with South Korea's plans for new nuclear plants. The article suggests the stock drop is due to its high valuation, trading at 55 times its projected 2028 GAAP earnings per share of $0.43, which the author deems too expensive. The Motley Fool's Stock Advisor team also did not recommend Energy Fuels as one of their top 10 stocks to buy.",
+            "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/ff50b40d271d656911df445dc82a25b2/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f852963%252fglowing-green-radioactive-nuclear-radiation-icon.jpg%26amp%3Bw%3D700",
+            "source": "The Globe and Mail",
+            "category_within_source": "General",
+            "source_domain": "The Globe and Mail",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.944646"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.714747"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.725446"
+                }
+            ],
+            "overall_sentiment_score": 0.117911,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.406300",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.633626",
+                    "ticker_sentiment_score": "0.300028",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.636064",
+                    "ticker_sentiment_score": "0.327176",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "KMI",
+                    "relevance_score": "0.622934",
+                    "ticker_sentiment_score": "0.119784",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NEE",
+                    "relevance_score": "0.629350",
+                    "ticker_sentiment_score": "0.101466",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels to acquire Australian Strategic Materials in rare earth supply chain push",
+            "url": "https://mugglehead.com/energy-fuels-to-acquire-australian-strategic-materials-in-rare-earth-supply-chain-push/",
+            "time_published": "20260123T205835",
+            "authors": [
+                "Joseph Morton"
+            ],
+            "summary": "Energy Fuels Inc. announced its acquisition of Australian Strategic Materials Ltd. for approximately USD$299 million, aiming to create the largest fully integrated rare earth producer outside China. This merger will combine Energy Fuels' rare earth oxide production with ASM's downstream metal and alloy manufacturing capabilities, addressing critical bottlenecks in non-Chinese rare earth supply chains. The deal seeks to establish a comprehensive domestic supply chain for key materials used in electric vehicles, wind turbines, and defense systems.",
+            "banner_image": "https://mugglehead.com/wp-content/uploads/2026/01/Energy-Fuels-to-acquire-Australian-Strategic-Materials-in-rare-earth-supply-chain-push-e1769113202122.jpg",
+            "source": "Mugglehead Magazine",
+            "category_within_source": "General",
+            "source_domain": "Mugglehead Magazine",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.947875"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.823423"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.702948"
+                }
+            ],
+            "overall_sentiment_score": 0.458244,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.476339",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels and Australian Strategic Materials Unite to Build a New Rare Earths Powerhouse for Western Markets",
+            "url": "https://investornews.com/critical-minerals-rare-earths/energy-fuels-and-australian-strategic-materials-unite-to-build-a-new-rare-earths-powerhouse-for-western-markets/",
+            "time_published": "20260123T142957",
+            "authors": [
+                "InvestorNews"
+            ],
+            "summary": "Energy Fuels Inc. is acquiring Australian Strategic Materials Ltd. for approximately A$447 million, creating a vertically integrated rare earth supply chain. This strategic merger will combine ASM's metallisation and alloying expertise with Energy Fuels' rare earth separation and uranium production, aiming to enhance Western self-sufficiency in critical minerals. The deal includes ASM's Dubbo Project and Korean metals plant, with a focus on geopolitical alignment through the Critical Minerals Framework between Australia and the U.S.",
+            "banner_image": "https://i0.wp.com/investornews.com/wp-content/uploads/2026/01/investornews.png?fit=500%2C262&ssl=1",
+            "source": "InvestorNews",
+            "category_within_source": "General",
+            "source_domain": "InvestorNews",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.806746"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.715164"
+                }
+            ],
+            "overall_sentiment_score": 0.444373,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.445832",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels to acquire Australian Strategic Materials to create “mine-to-metal and alloy” rare earths champion",
+            "url": "https://inspenet.com/en/noticias/energy-fuels-to-acquire-australian-strategic-materials-to-create-mine-to-metal-and-alloy-rare-earths-champion/",
+            "time_published": "20260123T132825",
+            "authors": [
+                "José López"
+            ],
+            "summary": "Energy Fuels Inc. is set to acquire Australian Strategic Materials Limited (ASM) for approximately US$299 million to create a leading integrated rare earths supply chain outside of China. This acquisition will combine Energy Fuels' monazite separation capabilities at its White Mesa Mill with ASM's rare earth metal and alloy production from its Korean Metals Plant. The deal is expected to close by the end of June 2026, pending regulatory and shareholder approvals.",
+            "banner_image": "https://cdn.inspenet.com/Energy_Fuels_Inc__Energy_Fuels_to_acquire_Australian_Strategic_M.webp",
+            "source": "Inspenet",
+            "category_within_source": "General",
+            "source_domain": "Inspenet",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.835894"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.724853"
+                }
+            ],
+            "overall_sentiment_score": 0.604073,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.631309",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels' $300 Million ASM Acquisition: Breaking China's Rare Earth Monopoly",
+            "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-1-23-energy-fuels-300-million-asm-acquisition-breaking-chinas-rare-earth-monopoly",
+            "time_published": "20260123T095700",
+            "authors": [
+                "MarketMinute"
+            ],
+            "summary": "Energy Fuels Inc. has announced a $300 million acquisition of Australian Strategic Materials Ltd, aiming to create the first fully integrated, \"China-free\" rare earth element supply chain. This strategic move positions Energy Fuels as a key alternative for critical minerals, addressing Western national security and economic decoupling from Chinese state-controlled suppliers. The deal, which offers a significant premium to ASM shareholders, highlights a broader geopolitical shift towards securing independent critical mineral supply chains, especially for electric vehicles, wind turbines, and defense applications.",
+            "banner_image": "https://marketminute.ghost.io/content/images/size/w1200/2026/01/ba2a6e60-16de-4278-9f2e-b647df7bf0c3.png",
+            "source": "FinancialContent",
+            "category_within_source": "General",
+            "source_domain": "FinancialContent",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.919988"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.829695"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.701856"
+                }
+            ],
+            "overall_sentiment_score": 0.464855,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.823766",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.825036",
+                    "ticker_sentiment_score": "0.347507",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.635914",
+                    "ticker_sentiment_score": "0.270189",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels to Buy Australian Strategic Materials in Bid for Non-Chinese Rare Earth Leadership",
+            "url": "https://www.theglobeandmail.com/investing/markets/stocks/UUUU-A/pressreleases/37161493/energy-fuels-to-buy-australian-strategic-materials-in-bid-for-non-chinese-rare-earth-leadership/",
+            "time_published": "20260122T055817",
+            "authors": [],
+            "summary": "Energy Fuels is set to acquire Australian Strategic Materials for approximately US$299 million, aiming to become the largest fully integrated rare earth \"mine-to-metal and alloy\" producer outside China. This move combines Energy Fuels’ U.S.-based rare earth oxide separation with ASM’s metals plant capabilities and Dubbo project, strengthening their non-Chinese rare earth supply chain. The deal is expected to enhance vertical integration, margins, and strategic relevance, with analysts maintaining a 'Buy' rating on Energy Fuels (UUUU) stock, although some fundamental weaknesses are noted.",
+            "banner_image": null,
+            "source": "The Globe and Mail",
+            "category_within_source": "General",
+            "source_domain": "The Globe and Mail",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.817025"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.711882"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.607343"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.612924"
+                }
+            ],
+            "overall_sentiment_score": 0.411012,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.428660",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Colorado-based Energy Fuels acquiring Australian rare-earth producer for $299M",
+            "url": "https://www.coloradopolitics.com/2026/01/21/colorado-based-energy-fuels-acquiring-australian-rare-earth-producer-for-299m/",
+            "time_published": "20260122T005817",
+            "authors": [
+                "Dan Boniface and Scott Weiser"
+            ],
+            "summary": "Energy Fuels Inc., a Lakewood-based company, announced its plan to acquire Australian Strategic Materials for $299 million. This acquisition aims to create the largest fully integrated rare-earth \"mine-to-metal and alloy\" producer outside of China, securing critical supply chains for various technologies. The deal will combine Energy Fuels' rare earth oxide production with Australian Strategic Materials' downstream metal and alloy manufacturing capabilities in Korea and the U.S.",
+            "banner_image": "https://www.coloradopolitics.com/wp-content/uploads/2026/01/99c05d4dc34b7b1ae780b471f7c8438b.jpg",
+            "source": "Colorado Politics",
+            "category_within_source": "General",
+            "source_domain": "Colorado Politics",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.914475"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.715319"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.637012"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.827702"
+                }
+            ],
+            "overall_sentiment_score": 0.486876,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.463130",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels moves to buy ASM in $299 million rare earths deal",
+            "url": "https://www.msn.com/en-us/money/markets/energy-fuels-moves-to-buy-asm-in-299-million-rare-earths-deal/ar-AA1UDEff?ocid=finance-verthp-feeds",
+            "time_published": "20260121T092730",
+            "authors": [],
+            "summary": "Energy Fuels Inc. is seeking to acquire Australia's ASM Resources for $299 million (A$450 million), aiming to boost its position in the rare earths supply chain. This move would provide Energy Fuels with full ownership of ASM's Dubbo project, which holds resources for various critical materials including rare earths, zirconium, niobium, and hafnium. The proposed deal highlights Energy Fuels' strategy to integrate mining and processing capabilities for diverse critical minerals to support industrial demands.",
+            "banner_image": null,
+            "source": "MSN",
+            "category_within_source": "General",
+            "source_domain": "MSN",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.901749"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.849272"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.613351"
+                }
+            ],
+            "overall_sentiment_score": 0.4619,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.497179",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Stock Surges To 3-Month High On Deal To Build Biggest Rare-Earth Player Outside China",
+            "url": "https://stocktwits.com/news-articles/markets/equity/energy-fuels-stock-surges-to-3-month-high-on-deal-to-build-biggest-rare-earth-player-outside-china/cmUDLZJR4OY",
+            "time_published": "20260121T052730",
+            "authors": [
+                "Yuvraj Malik"
+            ],
+            "summary": "Energy Fuels stock surged over 7% after announcing the acquisition of Australian Strategic Materials, a deal valued at nearly $300 million. This acquisition aims to create the largest fully integrated rare-earth producer outside China, strengthening global supply chains for critical magnet applications. The company, also a primary uranium producer for nuclear power, has seen significant investor interest with shares rising 62% in January alone.",
+            "banner_image": "https://news.stocktwits-cdn.com/large_Getty_Images_2241256389_jpg_227f35a9db.webp",
+            "source": "Stocktwits",
+            "category_within_source": "General",
+            "source_domain": "Stocktwits",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.937481"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.828335"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.719477"
+                },
+                {
+                    "topic": "economy_fiscal",
+                    "relevance_score": "0.620267"
+                }
+            ],
+            "overall_sentiment_score": 0.425782,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.437449",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels to Buy Australian Miner in Bid for Rare Earths",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-20/energy-fuels-to-buy-australian-miner-in-bid-for-rare-earths",
+            "time_published": "20260120T225200",
+            "authors": [
+                "Jacob Lorinc and Martin Ritchie"
+            ],
+            "summary": "Energy Fuels Inc., a US uranium miner, is set to acquire Australian Strategic Materials Ltd. in a $299 million all-stock deal. This acquisition aims to establish a \"mine-to-metal\" supply chain for rare earths, positioning Energy Fuels as a significant player in the Western effort to challenge China's dominance in these critical commodities. The rare earths processed could be used in various high-tech applications, including magnets for robotics, consumer electronics, and defense technology.",
+            "banner_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDuG3l6G_Xtk/v1/-1x-1.webp",
+            "source": "Bloomberg.com",
+            "category_within_source": "General",
+            "source_domain": "Bloomberg.com",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "0.923578"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.713019"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.639027"
+                }
+            ],
+            "overall_sentiment_score": 0.432808,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.412087",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels to acquire Australian Strategic Materials to create new \"mine-to-metal & alloy\" rare-earth champion",
+            "url": "https://investors.energyfuels.com/2026-01-20-Energy-Fuels-to-acquire-Australian-Strategic-Materials-to-create-new-mine-to-metal-alloy-rare-earth-champion",
+            "time_published": "20260120T214032",
+            "authors": [],
+            "summary": "Energy Fuels Inc. announced its intent to acquire Australian Strategic Materials Limited for US$299 million, aiming to become the largest integrated \"mine-to-metal & alloy\" rare-earth producer outside of China. This acquisition will combine Energy Fuels' rare earth oxide production at its White Mesa Mill with ASM's metal and alloy conversion facilities in Korea and planned U.S. operations. The transaction seeks to enhance vertical integration, improve margin capture, and address vulnerabilities in ex-China rare earth supply chains, with closing expected in late-June 2026 pending regulatory and shareholder approvals.",
+            "banner_image": "https://mma.prnewswire.com/media/2865757/Energy_Fuels_Inc__Energy_Fuels_to_acquire_Australian_Strategic_M.jpg?w=600",
+            "source": "Energy Fuels",
+            "category_within_source": "General",
+            "source_domain": "Energy Fuels",
+            "topics": [
+                {
+                    "topic": "mergers_and_acquisitions",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.944945"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.646503"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.615579"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.605055"
+                }
+            ],
+            "overall_sentiment_score": 0.723931,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.738790",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Stock Gains Momentum from Dual Growth Engines",
+            "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/energy-fuels-stock-gains-momentum-from-dual-growth-engines/68503444",
+            "time_published": "20260120T142104",
+            "authors": [],
+            "summary": "Energy Fuels Inc. is experiencing significant market attention due to its dual growth narratives: an expansion into rare earth elements and its re-categorization as a beneficiary of the \"AI Energy Trade.\" The company's White Mesa Mill Phase 2 Bankable Feasibility Study details a substantial rare earth oxides production plan, while the increasing demand for nuclear energy to power AI data centers is drawing new investors. Despite a premium valuation, robust uranium production provides a financial floor, and the rare earth expansion is a key future growth driver.",
+            "banner_image": "https://mdb.ad-hoc-news.de/img/icons/uhr_zeitverzoegert.jpg",
+            "source": "AD HOC NEWS",
+            "category_within_source": "General",
+            "source_domain": "AD HOC NEWS",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.918478"
+                }
+            ],
+            "overall_sentiment_score": 0.441522,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.634010",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GEV",
+                    "relevance_score": "0.605942",
+                    "ticker_sentiment_score": "0.223446",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: Taiwan Semiconductor, Cameco, Energy Fuels, Centrus Energy, Uranium Energy and GE Vernova",
+            "url": "https://www.nasdaq.com/articles/zacks-investment-ideas-feature-highlights-taiwan-semiconductor-cameco-energy-fuels-centrus",
+            "time_published": "20260120T075735",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Zacks Investment Ideas highlights several \"AI Energy Stocks\" for long-term investment, including Taiwan Semiconductor, Cameco, Energy Fuels, Centrus Energy, Uranium Energy, and GE Vernova. The article focuses on the projected surge in energy demand due to AI growth and the importance of companies in nuclear energy, natural gas, and grid technology. It provides detailed reasons why investors should consider these specific companies, including their market position, growth projections, and role in supporting the AI and electrification boom.",
+            "banner_image": null,
+            "source": "Nasdaq",
+            "category_within_source": "General",
+            "source_domain": "Nasdaq",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.914300"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.815569"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.727253"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.608185"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.646227"
+                }
+            ],
+            "overall_sentiment_score": 0.435077,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "0.886116",
+                    "ticker_sentiment_score": "0.317705",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GEV",
+                    "relevance_score": "0.906428",
+                    "ticker_sentiment_score": "0.545092",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Co. Updates FS of Rare Earths Asset in Madagascar",
+            "url": "https://www.streetwisereports.com/article/2026/01/16/co-updates-fs-of-rare-earths-asset-in-madagascar.html",
+            "time_published": "20260116T232652",
+            "authors": [
+                "Doresa Banning"
+            ],
+            "summary": "Energy Fuels Inc. has released a revised feasibility study for its Vara Mada rare earths project in Madagascar, which H.C. Wainwright & Co. highlights as having \"significant economic potential\" and impressive scale. The study outlines robust project economics with an after-tax net present value of US$1.8 billion and projects substantial annual production of critical minerals over a 38-year mine life. H.C. Wainwright & Co. reiterated its \"Buy\" rating and US$26.75 price target for Energy Fuels, also noting strong uranium production last year and new long-term sales contracts.",
+            "banner_image": null,
+            "source": "Streetwise Reports",
+            "category_within_source": "General",
+            "source_domain": "Streetwise Reports",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.912973"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.749970"
+                }
+            ],
+            "overall_sentiment_score": 0.410634,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.402917",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Inc (UUUU) Trading 4.52% Higher on Jan 15",
+            "url": "https://www.gurufocus.com/news/4113474/energy-fuels-inc-uuuu-trading-452-higher-on-jan-15",
+            "time_published": "20260115T165818",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Energy Fuels Inc (UUUU) saw its shares surge by 4.52% on January 15, reaching an intraday high of $21.88 and closing at $21.86. The stock is currently 20.03% below its 52-week high but significantly above its 52-week low. Wall Street analysts have an average target price of $20.06, suggesting a slight downside, while GuruFocus estimates a one-year fair value of $14.54, indicating a larger potential downside.",
+            "banner_image": "https://userupload.gurufocus.com/2011832871744086016.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.915701"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.707032"
+                }
+            ],
+            "overall_sentiment_score": 0.240301,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.225750",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Inc. (UUUU) Exceeds Guidance, Asserts Dominance as Uranium Producer",
+            "url": "https://www.insidermonkey.com/blog/energy-fuels-inc-uuuu-exceeds-guidance-asserts-dominance-as-uranium-producer-1675005/?amp=1",
+            "time_published": "20260115T131400",
+            "authors": [
+                "Neha Gupta"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) has announced that it exceeded its 2025 guidance for uranium production and sales, affirming its position as a dominant uranium producer and a leading producer of rare earth elements. The company mined 1.6 million pounds of uranium, surpassing its target by 11%, and has received a \"Buy\" rating with a $20 price target from Texas Capital Securities. Energy Fuels emphasizes the critical role of uranium in national energy security and its commitment to delivering on production promises.",
+            "banner_image": null,
+            "source": "Insider Monkey",
+            "category_within_source": "General",
+            "source_domain": "Insider Monkey",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.931304"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.805614"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.732689"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.625785"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.624394"
+                }
+            ],
+            "overall_sentiment_score": 0.877413,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.880097",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels releases feasibility study for Madagascar mineral sands project",
+            "url": "https://m.investing.com/news/sec-filings/energy-fuels-releases-feasibility-study-for-madagascar-mineral-sands-project-93CH-4445861?ampMode=1",
+            "time_published": "20260113T225845",
+            "authors": [
+                "Investing.com"
+            ],
+            "summary": "Energy Fuels Inc. announced a new feasibility study for its Vara Mada (formerly Toliara) Mineral Sands and Rare Earths Project in Madagascar, outlining significant mineral resources, production plans, and strong financial metrics. The project, with a 38-year mine life, is projected to have a net present value of $1.415 billion and an internal rate of return of 22.1%. This update follows the company's acquisition of Base Resources and the lifting of a project suspension by the Government of Madagascar, alongside strong uranium production results and mixed analyst views.",
+            "banner_image": "https://i-invdn-com.investing.com/msite/img/install_apps/mobile-icon-banner.svg",
+            "source": "Investing.com",
+            "category_within_source": "General",
+            "source_domain": "Investing.com",
+            "topics": [
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.906133"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.825344"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.737872"
+                }
+            ],
+            "overall_sentiment_score": 0.453204,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.453663",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Inc Publishes New Technical Report on Vara Mada Project",
+            "url": "https://www.tradingview.com/news/tradingview:cb1b761c82bd7:0-energy-fuels-inc-publishes-new-technical-report-on-vara-mada-project/",
+            "time_published": "20260113T215845",
+            "authors": [],
+            "summary": "Energy Fuels Inc has released a new feasibility study for its Vara Mada Project in Madagascar, projecting annual ilmenite production of 959 kt over 38 years with an NPV of $1,415 million and an IRR of 22.1%. The project will increase mining rates in its initial stages and include monazite in its exploitation permit, supported by new infrastructure.",
+            "banner_image": null,
+            "source": "TradingView — Track All Markets",
+            "category_within_source": "General",
+            "source_domain": "TradingView — Track All Markets",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.947185"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.802469"
+                }
+            ],
+            "overall_sentiment_score": 0.443191,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.426523",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Soars with Record Uranium Production and Strategic Expansion",
+            "url": "https://stockstotrade.com/news/energy-fuels-inc-uuuu-news-2026_01_12/",
+            "time_published": "20260112T190500",
+            "authors": [
+                "Tim Bohen",
+                "Ben Sturgill",
+                "Ellis Hobbs"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) saw its stock surge by 8.09% following record uranium production and sales guidance. New long-term sales contracts with the U.S. nuclear power sector and a strong feasibility study for its Madagascar project, projecting a $1.8B post-tax NPV, are key drivers. The company's expansion into commercial-scale rare earth element production further enhances its outlook, signaling continued growth and profitability.",
+            "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2026/01/dynamic-energy-market-growth-2.png",
+            "source": "StocksToTrade",
+            "category_within_source": "General",
+            "source_domain": "StocksToTrade",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.939671"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.805086"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.924331"
+                }
+            ],
+            "overall_sentiment_score": 0.499055,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.504104",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Inc. (UUUU) Shares Face Continued Skepticism as Roth Maintains Sell Rating",
+            "url": "https://finance.yahoo.com/news/energy-fuels-inc-uuuu-shares-021122476.html",
+            "time_published": "20260112T022819",
+            "authors": [
+                "Laiba Immad"
+            ],
+            "summary": "Roth Capital has reiterated a \"Sell\" rating for Energy Fuels Inc. (UUUU) with a $11.50 price target, despite the company reporting slightly better-than-expected Q4 2025 uranium production and sales. The firm views Energy Fuels shares as overvalued, arguing that the current stock price already incorporates optimistic assumptions regarding its rare earth strategy, which has yet to significantly impact financial results. Energy Fuels is a leading uranium producer and has expanded into rare earth elements, but Roth maintains skepticism about its current valuation.",
+            "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+            "source": "Yahoo Finance",
+            "category_within_source": "General",
+            "source_domain": "Yahoo Finance",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.928554"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.818181"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.917276"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.724509"
+                }
+            ],
+            "overall_sentiment_score": -0.305791,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.310928",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Do You Own Energy Fuels Inc. Stock? Take a Look at This Stock Instead.",
+            "url": "https://www.sharewise.com/us/news_articles/Do_You_Own_Energy_Fuels_Inc_Stock_Take_a_Look_at_This_Stock_Instead_TheMotleyFool_20260111_1652",
+            "time_published": "20260112T022819",
+            "authors": [
+                "TheMotleyFool"
+            ],
+            "summary": "The demand for nuclear energy is experiencing a resurgence, driven by AI's energy needs and global initiatives to increase nuclear power capacity. Uranium miners, such as Energy Fuels Inc. (NYSEMKT: UUUU), have seen significant stock growth, with Energy Fuels' shares increasing by 183% last year. The company has been a major producer of uranium in the U.S. since 2017.",
+            "banner_image": "https://www.sharewise.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxhV2s9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--11b9badba7dc6ac9212d231670d3c99c267468f6/gettyimages-613330688.jpg?locale=us",
+            "source": "www.sharewise.com",
+            "category_within_source": "General",
+            "source_domain": "www.sharewise.com",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.942806"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.805495"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.624070"
+                }
+            ],
+            "overall_sentiment_score": 0.336673,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.348475",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels rises on robust feasibility study for Madagascar rare earth project (UUUU:NYSE)",
+            "url": "https://seekingalpha.com/news/4537657-energy-fuels-rises-on-robust-feasibility-study-for-madagascar-rare-earth-project",
+            "time_published": "20260109T131228",
+            "authors": [
+                "Carl Surran"
+            ],
+            "summary": "Energy Fuels (UUUU) saw a pre-market rise after announcing that an updated feasibility study for its Vara Mada project in Madagascar confirmed strong economics and significant reserves of rare earth, titanium, and zircon minerals. The project, formerly known as Toliara, boasts \"exceptional economics\" and \"world-class quantities\" of high-quality resources.",
+            "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1424389215/image_1424389215.jpg?io=getty-c-w630",
+            "source": "Seeking Alpha",
+            "category_within_source": "General",
+            "source_domain": "Seeking Alpha",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.903512"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.834326"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.721974"
+                }
+            ],
+            "overall_sentiment_score": 0.420803,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.406464",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels shares gain as Vara Mada feasibility study highlights standout project economics",
+            "url": "https://www.msn.com/en-us/money/markets/energy-fuels-shares-gain-as-vara-mada-feasibility-study-highlights-standout-project-economics/ar-AA1TPmBT?ocid=finance-verthp-feeds",
+            "time_published": "20260108T161228",
+            "authors": [],
+            "summary": "Energy Fuels Inc. (NYSE American: UUUU) (TSX: EFR) shares increased following the release of a positive feasibility study for its 100%-owned Bahia project in Brazil, known as Vara Mada. The study highlights robust economics for the project, which is set to become one of the lowest-cost and largest rare earth element projects globally. This development positions Energy Fuels to significantly contribute to the Western world's independent supply chain for nuclear energy and technology.",
+            "banner_image": null,
+            "source": "MSN",
+            "category_within_source": "General",
+            "source_domain": "MSN",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.904880"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.819262"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.724714"
+                }
+            ],
+            "overall_sentiment_score": 0.413201,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.415861",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Announces Updated Feasibility Study for Toliara Rare Earth and HMS Project in Madagascar Confirming World-Class Scale and Economics, Including $1.8 Billion NPV and Ramping Up to Over $500 Million of Expected Annual EBITDA - Jan 8, 2",
+            "url": "https://investors.energyfuels.com/2026-01-08-Energy-Fuels-Announces-Updated-Feasibility-Study-for-Toliara-Rare-Earth-and-HMS-Project-in-Madagascar-Confirming-World-Class-Scale-and-Economics,-Including-1-8-Billion-NPV-and-Ramping-Up-to-Over-500-Million-of-Expected-Annual-EBITDA",
+            "time_published": "20260108T112819",
+            "authors": [],
+            "summary": "Energy Fuels Inc. has released an updated Feasibility Study for its Vara Mada project in Madagascar, formerly the Toliara Project, revealing a pre-tax net present value (NPV) of $1.8 billion and expected annual EBITDA ramping up to over $500 million. The study confirms the project's world-class scale and economics for rare earth, titanium, and zircon minerals, with an initial 38-year mine life. Monazite from Vara Mada will be processed at Energy Fuels' White Mesa Mill in the U.S. to produce separated rare earth oxides, aiming to significantly contribute to U.S. demand for these critical materials.",
+            "banner_image": "https://mma.prnewswire.com/media/2857272/Energy_Fuels_Inc__Energy_Fuels_Announces_Updated_Feasibility_Stu.jpg",
+            "source": "Energy Fuels",
+            "category_within_source": "General",
+            "source_domain": "Energy Fuels",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.902937"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.827449"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.647138"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.600226"
+                }
+            ],
+            "overall_sentiment_score": 0.454727,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.490998",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Announces Updated Feasibility Study for Toliara Rare Earth and HMS Project in Madagascar Confirming World-Class Scale and Economics, Including $1.8 Billion NPV and Ramping Up to Over $500 Million of Expected Annual EBITDA",
+            "url": "https://www.prnewswire.com/news-releases/energy-fuels-announces-updated-feasibility-study-for-toliara-rare-earth-and-hms-project-in-madagascar-confirming-world-class-scale-and-economics-including-1-8-billion-npv-and-ramping-up-to-over-500-million-of-expected-annual-eb-302656151.html",
+            "time_published": "20260108T111228",
+            "authors": [],
+            "summary": "Energy Fuels Inc. has released an updated Feasibility Study (FS) for its Vara Mada (formerly Toliara) project in Madagascar, confirming its exceptional economics with a $1.8 billion NPV and over $500 million in expected annual EBITDA. The project is poised to become a significant global source of titanium, zircon, and rare earth minerals, contributing to U.S. demand for critical materials through processing at the company's White Mesa Mill. The FS highlights the project's world-class scale and resources, reinforcing Energy Fuels' strategy in the rare earth sector.",
+            "banner_image": null,
+            "source": "PR Newswire",
+            "category_within_source": "General",
+            "source_domain": "PR Newswire",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.930600"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.837898"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.733689"
+                }
+            ],
+            "overall_sentiment_score": 0.825489,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.832098",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Wall Street Analysts See Energy Fuels (UUUU) as a Buy: Should You Invest?",
+            "url": "https://finviz.com/news/268409/wall-street-analysts-see-energy-fuels-uuuu-as-a-buy-should-you-invest",
+            "time_published": "20260106T170930",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Energy Fuels (UUUU) has an average brokerage recommendation (ABR) of 2.00, indicating a \"Buy\" based on six brokerage firms, with four \"Strong Buy\" ratings. While this suggests optimism, the article cautions against relying solely on ABRs due to potential brokerage biases. It recommends validating ABRs with the Zacks Rank, a proprietary tool that indicates a Strong Buy for Energy Fuels based on positive earnings estimate revisions.",
+            "banner_image": null,
+            "source": "Finviz",
+            "category_within_source": "General",
+            "source_domain": "Finviz",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.926763"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.818330"
+                }
+            ],
+            "overall_sentiment_score": 0.321116,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.322059",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Department to invest $2.7B to rebuild U.S. uranium enrichment",
+            "url": "https://www.wwltv.com/article/news/nation-world/energy-department-invest-billions-rebuild-us-uranium-enrichment/507-7669f64e-a095-46f2-aec7-442593589194",
+            "time_published": "20260105T170200",
+            "authors": [
+                "Katrina Morgan"
+            ],
+            "summary": "The U.S. Department of Energy will invest $2.7 billion over the next decade to bolster the country's uranium enrichment industry, aiming to reduce reliance on foreign nuclear fuel, particularly from Russia. This funding will support current nuclear reactors and advanced nuclear plants, fostering energy security and job growth. Three companies—American Centrifuge Operating, General Matter, and Orano Federal Services—have been awarded $900 million each to expand enrichment capacities.",
+            "banner_image": "https://media.wwltv.com/assets/WWL/images/dd0b7876-780e-491a-822a-61bd6dedcbd2/20250929T212507/dd0b7876-780e-491a-822a-61bd6dedcbd2_360x203.jpg",
+            "source": "WWLTV.com",
+            "category_within_source": "General",
+            "source_domain": "WWLTV.com",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.949004"
+                },
+                {
+                    "topic": "economy_fiscal",
+                    "relevance_score": "0.809696"
+                }
+            ],
+            "overall_sentiment_score": 0.619181,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.620097",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels stock jumps as uranium names heat up again — what’s driving UUUU today",
+            "url": "https://ts2.tech/en/energy-fuels-stock-jumps-as-uranium-names-heat-up-again-whats-driving-uuuu-today/",
+            "time_published": "20260105T160857",
+            "authors": [
+                "Shan Ahmed Khan"
+            ],
+            "summary": "Energy Fuels (NYSE: UUUU) shares jumped approximately 4% in early trading, leading a broader re-engagement in uranium and critical minerals stocks. The company's progress on rare earth processing, specifically dysprosium oxide production at its White Mesa Mill, and general optimism surrounding nuclear power demand and supply constraints are driving investor interest. Uranium spot prices and project milestones for companies like Denison Mines contribute to the sector's renewed attention.",
+            "banner_image": "https://ts2.tech/wp-content/uploads/2026/01/energy-fuels-stock-jumps-as-uranium-names-heat-up-again-whats-driving-uuuu-today-featured.jpg",
+            "source": "ts2.tech",
+            "category_within_source": "General",
+            "source_domain": "ts2.tech",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.947696"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.908423"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.610117"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.642116"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.609546"
+                }
+            ],
+            "overall_sentiment_score": 0.019559,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "0.325381",
+                    "ticker_sentiment_score": "0.035840",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Energy Department to invest $2.7B to rebuild U.S. uranium enrichment",
+            "url": "https://www.12news.com/article/news/nation-world/energy-department-invest-billions-rebuild-us-uranium-enrichment/507-7669f64e-a095-46f2-aec7-442593589194",
+            "time_published": "20260105T160200",
+            "authors": [
+                "Katrina Morgan"
+            ],
+            "summary": "The U.S. Department of Energy announced a $2.7 billion investment over the next decade to bolster the country's uranium enrichment industry. This initiative aims to reduce reliance on foreign nuclear fuel, create jobs, and support both current and future domestic nuclear power plants. The funding targets strengthening low-enriched uranium supplies and jumpstarting high-assay low-enriched uranium (HALEU) production for advanced reactors.",
+            "banner_image": "https://media.12news.com/assets/CCT/images/cefd5edd-56be-4ae4-89bb-aee9416d7a94/20260105T194007/cefd5edd-56be-4ae4-89bb-aee9416d7a94_360x203.jpg",
+            "source": "12News",
+            "category_within_source": "General",
+            "source_domain": "12News",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.920172"
+                },
+                {
+                    "topic": "economy_fiscal",
+                    "relevance_score": "0.845786"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.749783"
+                }
+            ],
+            "overall_sentiment_score": 0.353023,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "0.936278",
+                    "ticker_sentiment_score": "0.523860",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CEG",
+                    "relevance_score": "0.706198",
+                    "ticker_sentiment_score": "0.311107",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NEE",
+                    "relevance_score": "0.613795",
+                    "ticker_sentiment_score": "0.238098",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AES",
+                    "relevance_score": "0.564548",
+                    "ticker_sentiment_score": "0.271522",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Stanley Laman Group Ltd. Decreases Stake in Energy Fuels Inc $UUUU",
+            "url": "https://www.marketbeat.com/instant-alerts/filing-stanley-laman-group-ltd-decreases-stake-in-energy-fuels-inc-uuuu-2026-01-05/",
+            "time_published": "20260105T090857",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "Stanley Laman Group Ltd. reduced its stake in Energy Fuels Inc. (UUUU) by 37.7% in Q3 2025, selling 269,202 shares and holding 445,120 shares valued at $6.83 million. Company insiders, including the CEO and VP, have also been net sellers, offloading shares worth approximately $6.94 million in the past three months. Analysts currently have a \"Moderate Buy\" rating for UUUU with an average price target of $13.25, while the stock recently traded near $16.68.",
+            "banner_image": "https://www.marketbeat.com/logos/energy-fuels-inc-logo-1200x675.png?v=20240923144837",
+            "source": "MarketBeat",
+            "category_within_source": "General",
+            "source_domain": "MarketBeat",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.928790"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.837938"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.721580"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.604567"
+                }
+            ],
+            "overall_sentiment_score": -0.233488,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.242903",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels stock today: UUUU jumps 15% as uranium miners rally into 2026 — what investors watch next",
+            "url": "https://ts2.tech/en/energy-fuels-stock-today-uuuu-jumps-15-as-uranium-miners-rally-into-2026-what-investors-watch-next/",
+            "time_published": "20260104T120953",
+            "authors": [
+                "Shan Ahmed Khan"
+            ],
+            "summary": "Energy Fuels (UUUU) stock surged 14.9% to $16.68 in the first U.S. trading session of 2026, alongside other uranium-linked peers, reflecting increased investor interest in nuclear-fuel supply chains and critical materials. This rally follows the company exceeding its 2025 uranium production guidance and signing new long-term supply contracts. Investors are now watching key U.S. economic data releases and Energy Fuels' upcoming earnings report for Q4 and updated 2026 sales expectations.",
+            "banner_image": "https://ts2.tech/wp-content/uploads/2026/01/energy-fuels-stock-today-uuuu-jumps-15-as-uranium-miners-rally-into-2026-what-investors-watch-next-featured.jpg",
+            "source": "ts2.tech",
+            "category_within_source": "General",
+            "source_domain": "ts2.tech",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.864363"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.910326"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.764947"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.964186"
+                }
+            ],
+            "overall_sentiment_score": 0.13513,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.489942",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.558326",
+                    "ticker_sentiment_score": "-0.207573",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels (UUUU) stock jumps 15% in 2026’s first session — what’s behind it and what’s next",
+            "url": "https://ts2.tech/en/energy-fuels-uuuu-stock-jumps-15-in-2026s-first-session-whats-behind-it-and-whats-next/",
+            "time_published": "20260104T000923",
+            "authors": [
+                "Khadija Saeed"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) stock surged nearly 15% in the first trading session of 2026, driven by momentum in uranium-linked names and a broad \"risk-on\" sentiment in the sector. The company recently reported strong 2025 uranium metrics, exceeding guidance and securing new long-term sales contracts. Investors are now watching for the stock to hold key price levels and for upcoming earnings reports, as well as the company's plans to expand into heavy rare earths production.",
+            "banner_image": "https://ts2.tech/wp-content/uploads/2026/01/energy-fuels-uuuu-stock-jumps-15-in-2026s-first-session-whats-behind-it-and-whats-next-featured.jpg",
+            "source": "ts2.tech",
+            "category_within_source": "General",
+            "source_domain": "ts2.tech",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.944032"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.812211"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.704965"
+                }
+            ],
+            "overall_sentiment_score": 0.567569,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.575800",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Jumps 14.7% as Winter Energy Demand Heats Up",
+            "url": "https://www.insidermonkey.com/blog/energy-fuels-jumps-14-7-as-winter-energy-demand-heats-up-1669639/?amp=1",
+            "time_published": "20260103T011400",
+            "authors": [
+                "Angelica Ballesteros"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) saw a significant jump of 14.72% on Friday, driven by increased investor interest in uranium stocks amid rising winter energy demand. The company also announced strong uranium production and sales figures for full-year 2025, exceeding previous guidance, and secured new long-term sales contracts with US nuclear power generating companies. This surge is attributed to seasonal demand for heating and strategic developments within the company.",
+            "banner_image": "NULL",
+            "source": "Insider Monkey",
+            "category_within_source": "General",
+            "source_domain": "Insider Monkey",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.926677"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.721559"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.823310"
+                }
+            ],
+            "overall_sentiment_score": 0.448845,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.439863",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels raises uranium sales outlook as nuclear stocks cool",
+            "url": "https://mugglehead.com/energy-fuels-raises-uranium-sales-outlook-as-nuclear-stocks-cool/",
+            "time_published": "20260103T010835",
+            "authors": [
+                "Joe Morton"
+            ],
+            "summary": "Energy Fuels (NYSE: UUUU) exceeded its 2025 production guidance and secured new long-term sales deals, leading to a bump in its stock price before a broader nuclear sector pullback. The company now expects to sell approximately 360,000 pounds of uranium concentrate in Q4, a 50% increase from the prior year, with projected gross sales revenue of about USD$27 million. Despite the positive news, shares have pulled back from recent highs amidst volatility in the uranium sector, though the long-term outlook for nuclear energy remains strong, especially with increasing interest from AI data centers and government support for domestic uranium production.",
+            "banner_image": "https://mugglehead.com/wp-content/uploads/2026/01/Energy-Fuels-raises-uranium-sales-outlook-as-nuclear-stocks-cool-e1767398617388.jpg",
+            "source": "Mugglehead Magazine",
+            "category_within_source": "General",
+            "source_domain": "Mugglehead Magazine",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.930404"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.917509"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.820507"
+                },
+                {
+                    "topic": "economy_fiscal",
+                    "relevance_score": "0.627152"
+                }
+            ],
+            "overall_sentiment_score": -0.150777,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.185463",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CEG",
+                    "relevance_score": "0.673013",
+                    "ticker_sentiment_score": "0.131879",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VST",
+                    "relevance_score": "0.628852",
+                    "ticker_sentiment_score": "-0.328904",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels Inc: Is the Rise Sustainable?",
+            "url": "https://stockstotrade.com/news/energy-fuels-inc-uuuu-news-2026_01_02/",
+            "time_published": "20260103T000835",
+            "authors": [
+                "Tim Bohen",
+                "Ben Sturgill",
+                "Ellis Hobbs"
+            ],
+            "summary": "Energy Fuels Inc. (UUUU) has seen a significant stock price increase of 14.79% due to strong uranium and rare earth production, new contracts, and strategic executive appointments. The company surpassed uranium production goals and secured long-term sales, alongside achieving high-purity dysprosium oxide benchmarks with a South Korean automaker. While financial metrics show a strong current ratio and liquidity, a negative profit margin and high price-to-sales ratio suggest a need for cautious optimism.",
+            "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2026/01/dynamic-stock-market-growth-trends-7.png",
+            "source": "StocksToTrade",
+            "category_within_source": "General",
+            "source_domain": "StocksToTrade",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.901134"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.823106"
+                },
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.739600"
+                }
+            ],
+            "overall_sentiment_score": 0.629202,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.606186",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "154,336 Shares in Energy Fuels Inc $UUUU Purchased by Moody Aldrich Partners LLC",
+            "url": "https://www.marketbeat.com/instant-alerts/filing-154336-shares-in-energy-fuels-inc-uuuu-purchased-by-moody-aldrich-partners-llc-2026-01-01/",
+            "time_published": "20260101T130848",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "Moody Aldrich Partners LLC recently acquired 154,336 shares of Energy Fuels Inc (UUUU) during the third quarter, a new stake valued at approximately $2.37 million. This purchase gives them roughly 0.07% ownership of the company. Despite insider selling activity by key executives, institutional investors collectively own 48.24% of the stock, and analysts maintain a consensus \"Moderate Buy\" rating for Energy Fuels with an average price target of $13.25.",
+            "banner_image": "https://www.marketbeat.com/logos/energy-fuels-inc-logo-1200x675.png?v=20240923144837",
+            "source": "MarketBeat",
+            "category_within_source": "General",
+            "source_domain": "MarketBeat",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.901785"
+                }
+            ],
+            "overall_sentiment_score": 0.08767,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.061880",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Energy Fuels’ (UUUU) Dominance Confirmed as White Mesa Mill Exceeds 2025 Production Targets",
+            "url": "https://www.insidermonkey.com/blog/energy-fuels-uuuu-dominance-confirmed-as-white-mesa-mill-exceeds-2025-production-targets-1667816/",
+            "time_published": "20251231T112500",
+            "authors": [
+                "Maham Fatima"
+            ],
+            "summary": "Energy Fuels Inc. (NYSE: UUUU) has cemented its dominance in critical minerals, particularly with its White Mesa Mill exceeding 2025 production targets. The company successfully qualified its US-produced dysprosium oxide for a major South Korean automotive manufacturer, marking a significant achievement in supplying high-purity rare earth elements for permanent magnets. This development positions Energy Fuels as a key player in the domestic supply chain, especially given China's export controls on rare earths.",
+            "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/22183756/UUUU-insidermonkey-1700696274610.jpg?auto=format&fit=clip&expires=1798675200&width=480&height=269",
+            "source": "Insider Monkey",
+            "category_within_source": "General",
+            "source_domain": "Insider Monkey",
+            "topics": [
+                {
+                    "topic": "energy_transportation",
+                    "relevance_score": "0.941885"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.747993"
+                }
+            ],
+            "overall_sentiment_score": 0.416149,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UUUU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.407871",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        }
+    ]
+}

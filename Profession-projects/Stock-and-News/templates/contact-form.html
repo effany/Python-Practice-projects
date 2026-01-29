@@ -1,0 +1,89 @@
+
+<!-- Book Appointment Start -->
+<div class="container-fluid appointment py-5">
+    <div class="container py-5">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2">
+                <div class="section-title text-start">
+                    <h4 class="sub-title pe-3 mb-0">Send Yourself the data</h4>
+                    <h1 class="display-4 mb-4">Get on top of the world!</h1>
+                    <p class="mb-4">Enter your whatsapp number, we will send you news!</p>
+                    <div class="row g-4">
+                        <div class="col-sm-6">
+                            <div class="d-flex flex-column h-100">
+                                <div class="mb-4">
+                                    <h5 class="mb-3"><i class="fa fa-check text-primary me-2"></i> Fast</h5>
+                                    <p class="mb-0">Get informed immediately</p>
+                                </div>
+                                <div class="mb-4">
+                                    <h5 class="mb-3"><i class="fa fa-check text-primary me-2"></i> Safe</h5>
+                                    <p class="mb-0">Get message privately</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="video h-100">
+                                <img src="https://picsum.photos/id/3/200/200" class="img-fluid rounded w-100 h-100" style="object-fit: cover;" alt="">
+                                <button type="button" class="btn btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
+                                    <span></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.4s">
+                <div class="appointment-form rounded p-5">
+                    <p class="fs-4 text-uppercase text-primary">Get In Touch</p>
+                    <h1 class="display-5 mb-4">Get Message</h1>
+                    <form>
+                        <div class="row gy-3 gx-4">
+                            <div class="col-xl-6">
+                                <input type="text" class="form-control py-3 border-primary bg-transparent text-white" placeholder="First Name">
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="email" class="form-control py-3 border-primary bg-transparent text-white" placeholder="Email">
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="phone" class="form-control py-3 border-primary bg-transparent" placeholder="Phone">
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="date" class="form-control py-3 border-primary bg-transparent">
+                            </div>
+                            <div class="col-xl-6">
+                                <select class="form-select py-3 border-primary bg-transparent" aria-label="Default select example">
+                                    <option selected>Info to Send</option>
+                                    <option value="1">Info 1</option>
+                                    <option value="2">Info 2</option>
+                                    <option value="2">Info 3</option>
+                                </select>
+                            </div>
+                            <div class="col-12">
+                                <button type="button" class="btn btn-primary text-white w-100 py-3 px-5">SUBMIT NOW</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Video -->
+<div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Youtube Video</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- 16:9 aspect ratio -->
+                <div class="ratio ratio-16x9">
+                    <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
+                        allow="autoplay"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Book Appointment End -->

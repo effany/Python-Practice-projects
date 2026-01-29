@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+{%include 'header.html'%}
+    <body>
+        {%include 'nav.html'%}
+        {%include 'market-stats.html'%}
+        {%include 'api-endpoints.html'%}
+{%include 'footer.html'%}
+        <!-- JavaScript Libraries -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="{{url_for('static', filename='lib/wow/wow.min.js')}}"></script>
+        <script src="{{url_for('static', filename='lib/easing/easing.min.js')}}"></script>
+        <script src="{{url_for('static', filename='lib/waypoints/waypoints.min.js')}}"></script>
+        <script src="{{url_for('static', filename='lib/owlcarousel/owl.carousel.min.js')}}"></script>
+        <!-- Template Javascript -->
+        <script src="{{url_for('static', filename='js/main.js')}}"></script>
+    </body>
+</html>

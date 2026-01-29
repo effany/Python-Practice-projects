@@ -1,0 +1,2506 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Mirae Asset Global Investments Co. Ltd. Reduces Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mirae-asset-global-investments-co-ltd-reduces-stock-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-28/",
+      "time_published": "20260128T155332",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Mirae Asset Global Investments Co. Ltd. significantly reduced its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 21.5% in the third quarter, now holding 1,163,052 shares valued at $324.83 million. Despite this reduction, TSM remains Mirae Asset's 12th largest holding, and analyst sentiment is largely positive with a consensus \"Buy\" rating and an average target price of $381.67. The company also increased its quarterly dividend to $0.9678 per share, contributing to an annualized yield of 1.1%.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.836682"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916245"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.728493"
+        }
+      ],
+      "overall_sentiment_score": 0.414494,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447054",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OneAscent Financial Services LLC Decreases Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oneascent-financial-services-llc-decreases-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-28/",
+      "time_published": "20260128T125333",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "OneAscent Financial Services LLC significantly reduced its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 72.1% in Q3, selling nearly 3,000 shares. Despite this, TSM reported strong financial results, including $14.32 EPS and $32.5 billion in revenue, and increased its quarterly dividend. Analysts maintain a generally positive outlook with a \"Buy\" consensus, though some express concerns about its valuation.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924844"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808164"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.745161"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633384"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627007"
+        }
+      ],
+      "overall_sentiment_score": 0.240088,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.286079",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.819801",
+          "ticker_sentiment_score": "0.317910",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.633508",
+          "ticker_sentiment_score": "0.347225",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.597005",
+          "ticker_sentiment_score": "0.118596",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.552398",
+          "ticker_sentiment_score": "0.108427",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cambiar Investors LLC Has $16.53 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cambiar-investors-llc-has-1653-million-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-28/",
+      "time_published": "20260128T113042",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Cambiar Investors LLC recently reduced its stake in Taiwan Semiconductor Manufacturing Company Ltd. ($TSM) by 6% in the third quarter, now holding 59,179 shares valued at approximately $16.53 million. Despite this reduction, several other institutional investors increased their positions in the company. Analysts maintain a consensus \"Buy\" rating for TSM, citing positive demand catalysts such as Nvidia becoming a major customer and Microsoft's use of TSMC's 3nm process, with a consensus price target of $381.67.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917055"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848934"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737295"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602477"
+        }
+      ],
+      "overall_sentiment_score": 0.265232,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.385826",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.609403",
+          "ticker_sentiment_score": "0.301727",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.649987",
+          "ticker_sentiment_score": "0.250126",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.579334",
+          "ticker_sentiment_score": "0.148125",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.585669",
+          "ticker_sentiment_score": "0.124645",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TSMC\u2019s Global Fab Expansion Reframes Supply Risk And AI Growth Story",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmcs-global-fab-expansion-reframes-supply-risk-and-ai-growt",
+      "time_published": "20260128T095842",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "TSMC is expanding its global manufacturing footprint with a \"gigafab cluster\" in Arizona and considering facilities in Japan and the UAE. This move, supported by a U.S. Taiwan trade agreement, aims to diversify the chip supply chain and position TSMC closer to key customers for AI and high-performance computing. While offering advantages like reduced geopolitical exposure and stronger customer relationships, the expansion also presents risks related to high capital expenditure and execution challenges in new regions.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.837425"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.730822"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.617798"
+        }
+      ],
+      "overall_sentiment_score": 0.260462,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.322320",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.603186",
+          "ticker_sentiment_score": "0.259740",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.597024",
+          "ticker_sentiment_score": "0.227170",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.553457",
+          "ticker_sentiment_score": "0.200918",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Barlow Wealth Partners Inc. Raises Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-barlow-wealth-partners-inc-raises-stake-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-27/",
+      "time_published": "20260127T085929",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Barlow Wealth Partners Inc. increased its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 2.3% in the third quarter, bringing its total holdings to 83,344 shares valued at $24.08 million. This move positions TSM as the fund's 17th largest holding, comprising approximately 2.7% of its portfolio. The increased investment comes as analysts show growing bullish sentiment for TSM, citing strong financial performance and increasing AI-driven demand for its advanced chip manufacturing.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932496"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848871"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732555"
+        }
+      ],
+      "overall_sentiment_score": 0.290188,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489999",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.733577",
+          "ticker_sentiment_score": "0.343336",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.603389",
+          "ticker_sentiment_score": "0.299419",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.576729",
+          "ticker_sentiment_score": "0.145972",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TSMC Doubles Down On AI Growth With Capex Surge And Dividend Lift",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmc-doubles-down-on-ai-growth-with-capex-surge-and-dividend",
+      "time_published": "20260126T222750",
+      "authors": [
+        "Simply Wall St",
+        "Bailey Pemberton"
+      ],
+      "summary": "TSMC plans to significantly increase its capital expenditures to up to US$56 billion by 2026 to boost advanced chip production for AI applications, reflecting a strong commitment to the growing AI market. Concurrently, the company is raising its dividend by 20%, indicating confidence in future cash flow while accelerating investments in capacity. This strategy aims to solidify TSMC's position as a key supplier for high-performance AI chips and support long-term revenue growth.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909509"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810899"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.919239"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.742022"
+        }
+      ],
+      "overall_sentiment_score": 0.373038,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.435430",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.734608",
+          "ticker_sentiment_score": "0.347288",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.635575",
+          "ticker_sentiment_score": "0.342105",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Acquired by Vanguard Personalized Indexing Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-acquired-by-vanguard-personalized-indexing-management-llc-2026-01-26/",
+      "time_published": "20260126T132750",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Vanguard Personalized Indexing Management LLC increased its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 9.4% in the third quarter of 2025, bringing its total holdings to 101,876 shares valued at $28.47 million. This move aligns with a generally bullish sentiment from Wall Street analysts, who have issued \"Buy\" ratings and anticipate strong growth, driven significantly by AI demand where Nvidia is projected to become TSMC's largest customer. Despite a positive outlook bolstered by robust earnings and government support for U.S. fabs, concerns exist regarding rising capital expenditure for AI capacity expansion, which could impact near-term cash flow and introduce execution risks.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946982"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823733"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.732662"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640906"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.618872"
+        }
+      ],
+      "overall_sentiment_score": 0.02719,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.346695",
+          "ticker_sentiment_score": "0.018467",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM is Cabot Wealth Management Inc.'s 6th Largest Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-is-cabot-wealth-management-incs-6th-largest-position-2026-01-26/",
+      "time_published": "20260126T093120",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Cabot Wealth Management Inc. has identified Taiwan Semiconductor Manufacturing Company Ltd. ($TSM) as its 6th largest position, despite trimming its stake by 18.4% to hold 90,677 shares valued at $25.33 million. TSMC is experiencing AI-driven growth, projecting significant revenue expansion through 2029, which has led to a consensus \"Buy\" rating from analysts with an average target price of $381.67. The company also recently increased its quarterly dividend to $0.9678 per share, reflecting strong financial performance and future outlook.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921575"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812132"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826546"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719719"
+        }
+      ],
+      "overall_sentiment_score": 0.030952,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.329315",
+          "ticker_sentiment_score": "0.014094",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "2,957 Shares in Taiwan Semiconductor Manufacturing Company Ltd. $TSM Purchased by TFR Capital LLC.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-2957-shares-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-purchased-by-tfr-capital-llc-2026-01-25/",
+      "time_published": "20260125T122916",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "TFR Capital LLC acquired a new stake of 2,957 shares in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) during Q3, valued at approximately $826,000. TSMC reported strong Q4 earnings, demonstrating a 45.13% net margin and raising its quarterly dividend. Analysts maintain a \"Buy\" consensus with an average price target of $381.67, driven by a forecasted multi-year AI-driven capital expenditure cycle.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903558"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931281"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845400"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.725656"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.625090"
+        }
+      ],
+      "overall_sentiment_score": 0.354652,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.619018",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CDNS",
+          "relevance_score": "0.601947",
+          "ticker_sentiment_score": "0.140660",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Wall Street Is Wrong About Taiwan Semiconductor Manufacturing Stock",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSM-N/pressreleases/37217085/why-wall-street-is-wrong-about-taiwan-semiconductor-manufacturing-stock/",
+      "time_published": "20260125T072916",
+      "authors": [
+        "Motley Fool"
+      ],
+      "summary": "This article argues that Wall Street's consensus price target for Taiwan Semiconductor Manufacturing (TSMC) is too low, despite 98% of analysts rating it a buy. The author believes TSMC's stock can go \"much higher\" due to increasing demand for semiconductors from the AI industry, the company's dominant market position, and its attractive P/E ratio. TSMC's plans to increase capital expenditure and projected 30% sales growth in 2026 are highlighted as key drivers for future stock performance.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/e43aff8b6b0088bca37cda9b35275725/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f852152%252ftaiwan-semiconductor-building.png%26amp%3Bw%3D700",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909018"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927553"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822269"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.709608"
+        }
+      ],
+      "overall_sentiment_score": 0.326327,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419193",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.726374",
+          "ticker_sentiment_score": "0.312880",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.602320",
+          "ticker_sentiment_score": "0.347778",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.632374",
+          "ticker_sentiment_score": "0.302252",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Acquired by Jennison Associates LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-acquired-by-jennison-associates-llc-2026-01-24/",
+      "time_published": "20260124T125808",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Jennison Associates LLC significantly increased its stake in Taiwan Semiconductor Manufacturing Company Ltd. ($TSM) during Q3, acquiring an additional 544,750 shares and making TSM its 10th largest holding. The increased investment aligns with a bullish outlook for TSMC, driven by strong AI-led revenue growth projections and a recent dividend increase. Analysts maintain a consensus \"Buy\" rating for TSM, citing its critical role in the AI supply chain and strategic shift towards next-gen technologies.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913853"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902949"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818675"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640123"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.641561"
+        }
+      ],
+      "overall_sentiment_score": 0.34915,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.836119",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CDNS",
+          "relevance_score": "0.647934",
+          "ticker_sentiment_score": "0.342505",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.600677",
+          "ticker_sentiment_score": "-0.113409",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Envestnet Portfolio Solutions Inc. Has $12.75 Million Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-envestnet-portfolio-solutions-inc-has-1275-million-stake-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-24/",
+      "time_published": "20260124T121305",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Envestnet Portfolio Solutions Inc. reduced its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 4% in Q3, now holding 45,649 shares valued at $12.75 million. Despite this, other institutional investors increased their holdings, and Wall Street maintains a \"Buy\" consensus rating for TSMC with an average price target of $381.67. The company reported strong Q4 earnings, substantial revenue, and increased its quarterly dividend, driven by robust demand for AI chips.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930350"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815727"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.722262"
+        }
+      ],
+      "overall_sentiment_score": 0.028618,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.344901",
+          "ticker_sentiment_score": "0.029670",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TrueMark Investments LLC Has $4.37 Million Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-truemark-investments-llc-has-437-million-stock-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-24/",
+      "time_published": "20260124T120006",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "TrueMark Investments LLC increased its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 14.9% in Q3, now holding shares worth $4.37 million. This move comes as TSMC reported strong Q4 results, a robust AI-driven growth outlook, raised its dividend, and received multiple analyst upgrades, contributing to a \"Buy\" consensus rating. Other institutional investors like Lockheed Martin Investment Management Co. and Vantage Investment Partners LLC also significantly increased their holdings in TSM.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948816"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840836"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836920"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.604198"
+        }
+      ],
+      "overall_sentiment_score": 0.25651,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442190",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.634908",
+          "ticker_sentiment_score": "0.306624",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CDNS",
+          "relevance_score": "0.617304",
+          "ticker_sentiment_score": "0.348559",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.630795",
+          "ticker_sentiment_score": "-0.107995",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blackhawk Capital Partners LLC Increases Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blackhawk-capital-partners-llc-increases-stock-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-24/",
+      "time_published": "20260124T095806",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Blackhawk Capital Partners LLC has increased its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 6.7%, adding 1,570 shares to hold a total of 24,911 shares valued at approximately $6.96 million. This makes TSM its ninth-largest position, representing about 2.7% of its investment portfolio. The increase comes amidst a bullish outlook for TSM, supported by a consensus \"Buy\" rating from analysts, strong Q4 results, a raised capital expenditure guidance tied to AI-driven growth, and an increased quarterly dividend.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906780"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943379"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822047"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726178"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.649736"
+        }
+      ],
+      "overall_sentiment_score": 0.370953,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.627088",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.612156",
+          "ticker_sentiment_score": "0.513533",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.554951",
+          "ticker_sentiment_score": "-0.107666",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Taiwan Semiconductor Manufacturing (NYSE:TSM) Pricing Reflect Its Central Role In Global Chip Supply",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/is-taiwan-semiconductor-manufacturing-nysetsm-pricing-reflec",
+      "time_published": "20260123T125806",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "This article analyzes Taiwan Semiconductor Manufacturing (TSM) stock valuation using two methods: Discounted Cash Flow (DCF) and Price-to-Earnings (P/E). While the DCF model suggests TSM is overvalued by 55.7%, the P/E ratio indicates it might be undervalued when compared to its proprietary \"Fair Ratio.\" The piece emphasizes the importance of individual \"Narratives\" for investors to assess fair value based on their own outlooks and financial forecasts.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918916"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.838400"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.708120"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.648174"
+        }
+      ],
+      "overall_sentiment_score": 0.076368,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.230863",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.625325",
+          "ticker_sentiment_score": "0.236563",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.642429",
+          "ticker_sentiment_score": "0.201567",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Locust Wood Capital Advisers LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-locust-wood-capital-advisers-llc-2026-01-22/",
+      "time_published": "20260122T132942",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Locust Wood Capital Advisers LLC reduced its stake in Taiwan Semiconductor Manufacturing Company (TSM) by 24.3%, selling 267,595 shares. Despite the sale, TSM remains its second-largest holding, valued at $233.1 million, and constitutes approximately 5.9% of the fund's portfolio. The company reported strong quarterly results, increased its dividend, and holds a \"Buy\" rating from analysts with an average price target of $381.67.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922083"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830425"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711395"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628814"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.620408"
+        }
+      ],
+      "overall_sentiment_score": 0.238823,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.290056",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.777916",
+          "ticker_sentiment_score": "0.240914",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CDNS",
+          "relevance_score": "0.642019",
+          "ticker_sentiment_score": "0.200059",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.609854",
+          "ticker_sentiment_score": "0.227915",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwanese Semiconductor Manufacturer Speeds Up Timeline For New Facility",
+      "url": "https://www.bisnow.com/phoenix/news/industrial/taiwan-semiconductor-manufacturing-co-ramps-up-construction-in-phoenix-132813",
+      "time_published": "20260121T125806",
+      "authors": [
+        "Jessica Beebe"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) is accelerating the development of its large chip fabrication plant cluster in Phoenix, with plans to open its second fab in 2027, a year ahead of schedule. The company has committed $165 billion to the project, which includes six fabrication plants, two advanced packaging facilities, and an R&D center. This acceleration follows a broader U.S. trade deal with Taiwan, mandating further Taiwanese semiconductor investments in American facilities.",
+      "banner_image": "https://cdn.bisnow.net/fit?height=489&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2024%2F06%2F6667479e291c3-phoenix-4088513_1280.jpeg&width=717&sign=tNpXOxWUQsuFeLL6XSsqYm-bcFBYXfJM8GsW8Oe9d2E",
+      "source": "Bisnow",
+      "category_within_source": "General",
+      "source_domain": "Bisnow",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.930827"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801061"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.721915"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.617123"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.609488"
+        }
+      ],
+      "overall_sentiment_score": 0.40536,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428364",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Who Are the Biggest Winners from Taiwan Semiconductor Manufacturing's Blowout Quarterly Report?",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/37122217/who-are-the-biggest-winners-from-taiwan-semiconductor-manufacturing-s-blowout-quarterly-report/",
+      "time_published": "20260120T112702",
+      "authors": [
+        "Motley Fool"
+      ],
+      "summary": "Following Taiwan Semiconductor Manufacturing's (TSM) robust quarterly report and projected capital expenditure increase to $52-$56 billion by 2026, several companies and sectors are poised for significant benefits. AI chipmakers like Nvidia and Broadcom, as well as ASML, the sole provider of advanced chip manufacturing machines, stand to gain. Memory makers such as Micron Technology, SK Hynix, and Samsung, along with major cloud computing and neocloud companies like Amazon, Microsoft, and Alphabet, are also expected to profit from the surging demand for AI infrastructure.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/2488a6c4c768af4b9e35b17b72f6c45b/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f851618%252fmicrochip-technology-computer-chip-data-processing.jpg%26amp%3Bw%3D700",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.816555"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.932169"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.617482"
+        }
+      ],
+      "overall_sentiment_score": 0.008072,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.330846",
+          "ticker_sentiment_score": "0.043672",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Taiwan Semiconductor a Better Buy Than Intel for 2026?",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/37115894/is-taiwan-semiconductor-a-better-buy-than-intel-for-2026/",
+      "time_published": "20260120T022757",
+      "authors": [
+        "Motley Fool"
+      ],
+      "summary": "This article argues that Taiwan Semiconductor Manufacturing (TSMC) is a superior investment compared to Intel for 2026, citing TSMC's dominant market share in semiconductor fabrication, stronger financial performance, and robust growth. The author highlights TSMC's higher revenue, profitability, dividend payments, and net cash position, contrasting these with Intel's declining revenue, lower margins, and suspended dividend. The presence of TSMC factories in the U.S. further solidifies its market position.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/f6fd4f0b5ced4f8e0207ba6148daeb15/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f851196%252fgettyimages-1210742344.jpg%26amp%3Bw%3D700",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931694"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.803537"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.710502"
+        }
+      ],
+      "overall_sentiment_score": 0.037499,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.486225",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.985932",
+          "ticker_sentiment_score": "-0.483037",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "US strikes deal with Taiwan, imposes new semiconductor tariff",
+      "url": "https://www.automotivelogistics.media/nearshoring/taiwan-to-face-lower-tariffs-and-invest-in-us-chip-manufacturing-in-new-trade-deal-as-us-introduces-25-global-semiconductor-tariff/2588639",
+      "time_published": "20260119T162757",
+      "authors": [
+        "James McLoughlin"
+      ],
+      "summary": "The US has finalized a trade agreement with Taiwan, which involves Taiwan investing significantly in US semiconductor manufacturing in exchange for lower tariffs. Simultaneously, the US has introduced a new 25% tariff on specific advanced computing semiconductors, classifying both chips and critical minerals as national security risks. This move aims to boost domestic US semiconductor production and enhance supply chain resilience, with the auto sector potentially benefiting from reduced tariffs on Taiwanese chips in the short term, although broader tariffs could impact it later.",
+      "banner_image": "https://image.automotivelogistics.media/2588860.webp?imageId=2588860&x=0.00&y=32.15&cropw=100.00&croph=38.33&width=960&height=548&format=jpg",
+      "source": "Automotive Logistics",
+      "category_within_source": "General",
+      "source_domain": "Automotive Logistics",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.937370"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.903659"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818879"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.705276"
+        }
+      ],
+      "overall_sentiment_score": 0.282119,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.329247",
+          "ticker_sentiment_score": "0.039408",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.642478",
+          "ticker_sentiment_score": "0.339176",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.719317",
+          "ticker_sentiment_score": "0.324085",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ADI",
+          "relevance_score": "0.609854",
+          "ticker_sentiment_score": "0.302265",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.703328",
+          "ticker_sentiment_score": "0.308604",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Holdings Cut by NorthCrest Asset Manangement LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-holdings-cut-by-northcrest-asset-manangement-llc-2026-01-19/",
+      "time_published": "20260119T122712",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "NorthCrest Asset Management LLC reduced its stake in Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) by 1.3% in the third quarter, selling 3,640 shares and now holding 267,229 shares valued at $78.57 million. Despite this trimming, TSM remains NorthCrest's 6th largest holding. The article highlights TSMC's strong Q4 results, increased dividend, and largely bullish analyst sentiment with a consensus price target of $381.67, driven by robust AI demand.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907732"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911449"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828340"
+        }
+      ],
+      "overall_sentiment_score": 0.32031,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.301038",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM): \u201cEnabler of the AI Era.\u201d",
+      "url": "https://www.insidermonkey.com/blog/taiwan-semiconductor-manufacturing-tsm-enabler-of-the-ai-era-1677371/",
+      "time_published": "20260119T092600",
+      "authors": [
+        "Soumya Eswaran"
+      ],
+      "summary": "Wedgewood Partners highlighted Taiwan Semiconductor Manufacturing Company Limited (TSM) as a key contributor to its performance in its Q4 2025 investor letter. The firm noted TSM's critical role in the AI era by manufacturing nearly every compute accelerator and its ability to execute on leading-edge node progression. TSM's advanced nodes provide flexibility to increase performance and limit power, driving significant growth in high-performance computing (HPC) revenues.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/09/19160246/TSM-insidermonkey-1695153764125-768x430.jpg?auto=format&fit=clip&expires=1800316800&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.834443"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.746725"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.645816"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.627340"
+        }
+      ],
+      "overall_sentiment_score": 0.340845,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415028",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.609662",
+          "ticker_sentiment_score": "0.318159",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.634950",
+          "ticker_sentiment_score": "0.338913",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What the U.S.-Taiwan deal means for the island's 'silicon shield'",
+      "url": "https://www.cnbc.com/2026/01/19/us-taiwan-chip-deal-silicon-shield-tsmc-trump-tapei-ai-semiconductor-supply-chain.html",
+      "time_published": "20260118T203800",
+      "authors": [
+        "Anniek Bao",
+        "Dylan Butts"
+      ],
+      "summary": "A trade deal between the U.S. and Taiwan aims to shift 40% of Taiwan's semiconductor supply chain to the U.S., but analysts believe Taiwan's \"silicon shield\" will remain strong for years due to its advanced technology and manufacturing capabilities. Experts express doubt about the ease of this relocation, citing Taiwan's stringent policies on keeping advanced technology domestically and challenges in replicating Taiwan's engineering talent and production ecosystem elsewhere. Despite U.S. efforts, Taiwan's central role in global advanced chip production is expected to persist, ensuring its strategic importance.",
+      "banner_image": "https://image.cnbcfm.com/api/v1/image/108253428-17685464351768546432-43521697686-1080pnbcnews.jpg?v=1768546434&w=750&h=422&vtcrop=y",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.928062"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.937960"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836706"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630445"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.602222"
+        }
+      ],
+      "overall_sentiment_score": 0.209131,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.207283",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.619172",
+          "ticker_sentiment_score": "0.222952",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.713085",
+          "ticker_sentiment_score": "0.229547",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Commerce, Taiwan Deal Pledges $500B to Expand US Chip Manufacturing",
+      "url": "https://www.meritalk.com/articles/commerce-taiwan-deal-pledges-500b-to-expand-us-chip-manufacturing/",
+      "time_published": "20260117T142712",
+      "authors": [
+        "Weslan Hansen"
+      ],
+      "summary": "Taiwan has committed at least $500 billion in direct investment and credit guarantees to boost semiconductor and advanced technology manufacturing in the United States through a new trade agreement. This deal aims to revitalize the U.S. semiconductor sector, strengthen economic resilience, create jobs, and enhance national security, while also lowering tariffs on Taiwanese imports building in the U.S. The investment will be split between direct funding for production and innovation, and credit guarantees to support the entire U.S. chips supply chain.",
+      "banner_image": "https://www.meritalk.com/wp-content/uploads/2024/04/shutterstock_2262331365-e1713203802720.jpg",
+      "source": "MeriTalk",
+      "category_within_source": "General",
+      "source_domain": "MeriTalk",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901273"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.832360"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.718401"
+        }
+      ],
+      "overall_sentiment_score": 0.189392,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.304409",
+          "ticker_sentiment_score": "0.007168",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.744852",
+          "ticker_sentiment_score": "0.318049",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.615197",
+          "ticker_sentiment_score": "0.214682",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.589386",
+          "ticker_sentiment_score": "0.210476",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.587001",
+          "ticker_sentiment_score": "0.198570",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan to invest $250 billion in US semiconductor manufacturing",
+      "url": "https://americanbazaaronline.com/2026/01/16/taiwan-to-invest-250-billion-in-us-semiconductor-manufacturing-473411/",
+      "time_published": "20260117T142712",
+      "authors": [
+        "Nileena Sunil"
+      ],
+      "summary": "The Trump administration has signed a $250 billion deal with Taiwan to boost semiconductor manufacturing in the U.S. Taiwanese companies will directly invest in the U.S. semiconductor, energy, and AI sectors, with Taiwan also providing an additional $250 billion in credit guarantees. This initiative aims to reduce U.S. reliance on foreign semiconductor supply chains, which the administration views as a significant economic and national security risk.",
+      "banner_image": "https://americanbazaaronline.com/wp-content/uploads/2025/03/Semiconductor--500x500.webp",
+      "source": "The American Bazaar",
+      "category_within_source": "General",
+      "source_domain": "The American Bazaar",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.914579"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.813362"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705899"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600039"
+        }
+      ],
+      "overall_sentiment_score": 0.340742,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439271",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.720691",
+          "ticker_sentiment_score": "0.341534",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.672573",
+          "ticker_sentiment_score": "0.323212",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.616988",
+          "ticker_sentiment_score": "0.324320",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.596811",
+          "ticker_sentiment_score": "0.304360",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "US-listed shares of Taiwan Semiconductor Manufacturing Company (TSMC) shares were up 4.4 per cent following the monumental US-Taiwan trade deal.",
+      "url": "https://www.facebook.com/SkyNewsAustralia/posts/us-listed-shares-of-taiwan-semiconductor-manufacturing-company-tsmc-shares-were-/1324577686366493/",
+      "time_published": "20260116T142712",
+      "authors": [],
+      "summary": "US-listed shares of Taiwan Semiconductor Manufacturing Company (TSMC) rose by 4.4 percent. This increase follows the announcement of a significant trade deal between the United States and Taiwan.",
+      "banner_image": null,
+      "source": "Facebook",
+      "category_within_source": "General",
+      "source_domain": "Facebook",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916149"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811918"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.738213"
+        }
+      ],
+      "overall_sentiment_score": 0.424632,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445952",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "US and Taiwan sign $250B trade deal, cutting tariffs on Taiwanese goods",
+      "url": "https://www.mcall.com/2026/01/15/taiwan-tsmc/",
+      "time_published": "20260115T232911",
+      "authors": [
+        "CHAN HO-HIM and DIDI TANG"
+      ],
+      "summary": "The United States and Taiwan have signed a $250 billion trade deal that significantly cuts tariffs on Taiwanese goods. In exchange, Taiwan will invest heavily in the U.S. tech industry, specifically in semiconductors, AI, and energy, with TSMC leading these investments and expanding its U.S. operations. The deal aims to boost U.S. domestic production and strengthen economic ties between the two nations, despite opposition from Beijing.",
+      "banner_image": "https://www.mcall.com/wp-content/uploads/2022/11/Morning_Call_black_vector-1.svg",
+      "source": "The Morning Call",
+      "category_within_source": "General",
+      "source_domain": "The Morning Call",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.921862"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815895"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.712939"
+        }
+      ],
+      "overall_sentiment_score": 0.622968,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.607869",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+      "url": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+      "time_published": "20260115T203307",
+      "authors": [
+        "Rebecca Szkutak"
+      ],
+      "summary": "The Trump administration has signed a significant multibillion-dollar trade deal with Taiwan to boost domestic semiconductor manufacturing in the United States. Under this agreement, Taiwanese semiconductor and tech companies will invest $250 billion directly into the U.S. semiconductor industry, along with an additional $250 billion in credit guarantees. In return, the U.S. will invest in several Taiwanese industries, including semiconductors, defense, AI, telecommunications, and biotech, as the U.S. aims to reduce its dependence on foreign supply chains for semiconductors, which is seen as an economic and national security risk.",
+      "banner_image": "https://techcrunch.com/wp-content/uploads/2018/08/taiwan-flag.jpg?w=1024",
+      "source": "TechCrunch",
+      "category_within_source": "General",
+      "source_domain": "TechCrunch",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.904419"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.847232"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727293"
+        }
+      ],
+      "overall_sentiment_score": 0.310829,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428199",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.615335",
+          "ticker_sentiment_score": "0.304915",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.586395",
+          "ticker_sentiment_score": "0.281592",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.595138",
+          "ticker_sentiment_score": "0.291562",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TSMC earnings: Another record quarter as AI demand holds steady",
+      "url": "https://qz.com/tsmc-record-earnings-q4-2025",
+      "time_published": "20260115T163307",
+      "authors": [
+        "Chris Morris"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) reported its eighth consecutive quarter of year-over-year growth, with Q4 profits up 35% due to strong demand for AI chips. The company plans to invest up to $56 billion in new factories outside Taiwan and in the U.S. to meet this demand, forecasting continued growth. Analysts remain optimistic about TSMC's dominant market position in the AI boom.",
+      "banner_image": "https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2245031841.jpg",
+      "source": "Quartz",
+      "category_within_source": "General",
+      "source_domain": "Quartz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948144"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.813572"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.743068"
+        }
+      ],
+      "overall_sentiment_score": 0.044076,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.306217",
+          "ticker_sentiment_score": "0.036192",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Co. Outperforms Samsung Electronics in Operating Profit",
+      "url": "https://www.chosun.com/english/industry-en/2026/01/15/QYYJBOFBCZAXPHWFCLHT4Z4C3A/",
+      "time_published": "20260115T132810",
+      "authors": [],
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) has surpassed Samsung Electronics in operating profit, driven by record demand for AI chips. This indicates a significant shift in the semiconductor industry's profitability landscape, with TSMC capitalizing on the booming AI market.",
+      "banner_image": null,
+      "source": "\uc870\uc120\uc77c\ubcf4",
+      "category_within_source": "General",
+      "source_domain": "\uc870\uc120\uc77c\ubcf4",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946882"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831107"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.717260"
+        }
+      ],
+      "overall_sentiment_score": 0.40798,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447338",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TSMC smashes forecasts with record profit, flags more US factories",
+      "url": "https://www.reuters.com/world/china/tsmc-likely-post-fourth-quarter-profit-leap-driven-by-ai-boom-2026-01-14/",
+      "time_published": "20260115T103100",
+      "authors": [
+        "Wen-Yee Lee",
+        "Faith Hung and Ben Blanchard"
+      ],
+      "summary": "TSMC reported a record 35% jump in fourth-quarter profit, exceeding forecasts, and projected robust annual growth. The company also indicated plans for additional manufacturing capacity in the U.S., specifically mentioning further expansion in Arizona due to high demand driven by the \"AI mega trend.\" Despite significant capital spending on these expansions, the CEO expressed caution regarding the AI bubble, emphasizing the need for careful investment.",
+      "banner_image": "https://www.reuters.com/resizer/v2/7S4D3A7PSFKQ7KHEDAJNFQV5TM.jpg?auth=598c54a1cc9cffc9d957b8f9fb74fd6f5285a30536f90f69f7666cb12f5b4bfc&width=1920&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906233"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830497"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.747532"
+        }
+      ],
+      "overall_sentiment_score": 0.367081,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477741",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.892624",
+          "ticker_sentiment_score": "0.333069",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.708841",
+          "ticker_sentiment_score": "0.328581",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.674076",
+          "ticker_sentiment_score": "0.344859",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.583955",
+          "ticker_sentiment_score": "0.306763",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TSMC Reports Fourth Quarter EPS of NT$19.50",
+      "url": "https://pr.tsmc.com/english/news/3281",
+      "time_published": "20260115T053307",
+      "authors": [],
+      "summary": "TSMC announced its consolidated financial results for the fourth quarter ended December 31, 2025, reporting a diluted EPS of NT$19.50 and revenue of NT$1,046.09 billion. Both revenue and net income saw significant year-over-year increases. The company projects continued strong demand for its leading-edge process technologies in the first quarter of 2026, expecting revenue between US$34.6 billion and US$35.8 billion.",
+      "banner_image": "https://pr.tsmc.com/system/files/news/6e77244e1f7a860dfd0b04e29b0f8dabc7c844e5/4Q25%20%28E%29.jpg",
+      "source": "Taiwan Semiconductor",
+      "category_within_source": "General",
+      "source_domain": "Taiwan Semiconductor",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947914"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.823730"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.749914"
+        }
+      ],
+      "overall_sentiment_score": 0.407267,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438750",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is It Too Late To Consider Taiwan Semiconductor Manufacturing (NYSE:TSM) After Its Strong Share Price Run",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/is-it-too-late-to-consider-taiwan-semiconductor-manufacturin-1",
+      "time_published": "20260114T122850",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) has experienced a significant share price run, with returns of 66.1% over the last year. A Discounted Cash Flow (DCF) analysis suggests the stock is currently overvalued by 5",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937805"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836209"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.742026"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640618"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.644230"
+        }
+      ],
+      "overall_sentiment_score": 0.113781,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.017305",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.642527",
+          "ticker_sentiment_score": "0.223278",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Acquired by Liberty One Investment Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-acquired-by-liberty-one-investment-management-llc-2026-01-13/",
+      "time_published": "20260113T125727",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Liberty One Investment Management LLC significantly increased its stake in Taiwan Semiconductor Manufacturing Company Ltd. (TSM) by 364.5% in Q3, now holding 4,998 shares valued at $1.398 million. Institutional investors collectively own over 16.5% of the company as various hedge funds also adjusted their positions. Analysts remain largely positive on TSM due to potential U.S. expansion plans, surging AI demand, and a recent dividend increase, with a consensus \"Buy\" rating and an average target price of $355.00.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901822"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818326"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.800520"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.607033"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.613552"
+        }
+      ],
+      "overall_sentiment_score": 0.198562,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477678",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.633845",
+          "ticker_sentiment_score": "0.347127",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.564615",
+          "ticker_sentiment_score": "-0.201203",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating Taiwan Semiconductor Manufacturing (NYSE:TSM) After Strong Recent Momentum And Mixed Valuation Signals",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/evaluating-taiwan-semiconductor-manufacturing-nysetsm-after",
+      "time_published": "20260113T023345",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) has shown strong recent momentum with significant share price returns over one, three, and twelve months. While current valuations present a mixed picture, with one narrative suggesting the stock is 7% overvalued based on a fair value of US$310, the market's P/E ratio for TSM is still below the industry average, implying a potential discount. The company is highlighted as a central pillar of the AI revolution, but risks like geopolitical tensions and cost pressures are noted.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.834139"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949036"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817851"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.641294"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.700131"
+        }
+      ],
+      "overall_sentiment_score": 0.191164,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.110484",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.625005",
+          "ticker_sentiment_score": "0.241131",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump Administration Nears Trade Deal With Taiwan",
+      "url": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
+      "time_published": "20260113T015745",
+      "authors": [
+        "Ana Swanson and Tripp Mickle"
+      ],
+      "summary": "The Trump administration is finalizing a trade deal with Taiwan that will reduce tariffs on Taiwanese exports and secure a commitment from TSMC to significantly increase its semiconductor manufacturing presence in the U.S. This agreement aims to bolster U.S. national security by reducing reliance on chip production in Taiwan, given geopolitical tensions with China. TSMC is expected to build at least five additional fabs in Arizona as part of the deal.",
+      "banner_image": "https://static01.nyt.com/images/2026/01/12/multimedia/12dc-trade-taiwan-fhkq/12dc-trade-taiwan-fhkq-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "source": "The New York Times",
+      "category_within_source": "General",
+      "source_domain": "The New York Times",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.929145"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.844682"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714584"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.606575"
+        }
+      ],
+      "overall_sentiment_score": 0.486638,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477503",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TSMC plans US expansion in proposed Taiwan tariff-relief deal",
+      "url": "https://www.msn.com/en-us/money/other/tsmc-plans-us-expansion-in-proposed-taiwan-tariff-relief-deal/ar-AA1U4MCL?ocid=finance-verthp-feeds",
+      "time_published": "20260112T215745",
+      "authors": [],
+      "summary": "The article states that TSMC is planning a U.S. expansion as part of a proposed tariff-relief deal with Taiwan. There is no further content provided to elaborate on the details of this expansion or the tariff deal.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.837952"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.710477"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.640087"
+        }
+      ],
+      "overall_sentiment_score": 0.341077,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.318751",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Archives",
+      "url": "https://insidehpc.com/tag/taiwan-semiconductor-manufacturing-company/",
+      "time_published": "20260109T160928",
+      "authors": [
+        "staff"
+      ],
+      "summary": "This article provides an archive of news related to Taiwan Semiconductor Manufacturing Company (TSMC), specifically highlighting their December 2025 revenue report showing a 20.4% year-over-year increase. It also references past news bytes, including a significant investment by TSMC in Arizona fabs from March 2025. The page appears to be a compilation of various articles and news snippets related to TSMC and the broader HPC and AI industry.",
+      "banner_image": null,
+      "source": "insideHPC",
+      "category_within_source": "General",
+      "source_domain": "insideHPC",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.941808"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.827582"
+        }
+      ],
+      "overall_sentiment_score": 0.043246,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.342214",
+          "ticker_sentiment_score": "0.043988",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Started 2nm Chip Production. Time to Buy?",
+      "url": "https://247wallst.com/investing/2026/01/09/taiwan-semiconductor-started-2nm-chip-production-time-to-buy/",
+      "time_published": "20260109T140928",
+      "authors": [
+        "Joey Frenette"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) has started 2nm chip production, leading to a 52% stock gain in the past year. Analysts like JPMorgan remain bullish on TSMC's leadership in critical 2nm projects, despite Intel's growing foundry momentum and geopolitical risks. With future processes like enhanced 2nm and 1.6nm in preparation, TSMC is well-positioned to capitalize on increasing AI demand.",
+      "banner_image": "https://247wallst.com/wp-content/uploads/2018/01/tsmc-taiwan-semiconductor-manufacturing-co.jpg",
+      "source": "24/7 Wall St.",
+      "category_within_source": "General",
+      "source_domain": "24/7 Wall St.",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.941309"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827782"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.736551"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.622258"
+        }
+      ],
+      "overall_sentiment_score": 0.266387,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421662",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.742351",
+          "ticker_sentiment_score": "0.136954",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.610729",
+          "ticker_sentiment_score": "0.315726",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.615739",
+          "ticker_sentiment_score": "0.249168",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oak Family Advisors LLC Has $17.30 Million Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-family-advisors-llc-has-1730-million-stock-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-01-09/",
+      "time_published": "20260109T130928",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Oak Family Advisors LLC recently trimmed its stake in Taiwan Semiconductor Manufacturing Company (TSM) by 13.1% in Q3 2025, yet TSM remains its largest holding, valued at $17.30 million. The company is experiencing strong AI-driven growth, with Q4 revenue exceeding forecasts and a projected 31.6% year-over-year revenue increase for 2025 due to robust AI chip demand. Despite a consensus \"Buy\" rating and a raised dividend, some investors are concerned about premium valuations amid the AI spending boom.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917574"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920809"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805849"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.620192"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625385"
+        }
+      ],
+      "overall_sentiment_score": 0.273082,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.328830",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.613591",
+          "ticker_sentiment_score": "0.312606",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.642915",
+          "ticker_sentiment_score": "0.103473",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Q4 Revenue Jumps 20%, Tops Forecasts",
+      "url": "https://www.tradingview.com/news/gurufocus:66e6bb8c8094b:0-taiwan-semiconductor-q4-revenue-jumps-20-tops-forecasts/",
+      "time_published": "20260109T120928",
+      "authors": [],
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) announced a 20.45% increase in its Q4 sales year-over-year, reaching T$1.046 trillion, surpassing analyst forecasts. This growth is primarily driven by the strong demand for high-performance processors used in AI systems, despite a slowdown in consumer gadget semiconductor sales. TSMC's shares performed well in 2025, highlighting its critical role in the global semiconductor supply chain.",
+      "banner_image": "https://s3.tradingview.com/news/logo/gurufocus--theme-light.svg",
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904408"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812052"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748518"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.608582"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.645471"
+        }
+      ],
+      "overall_sentiment_score": 0.027562,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.306450",
+          "ticker_sentiment_score": "0.020997",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TSMC fourth-quarter revenue jumps 20%, beats forecasts",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-posts-q4-revenue-104608-billion-above-forecasts-2026-01-09/",
+      "time_published": "20260109T114400",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "TSMC, the world's largest contract chipmaker, reported a 20.45% increase in fourth-quarter revenue, reaching T$1.046 trillion ($33.11 billion), exceeding market forecasts driven by strong demand for AI applications. The company, which supplies Nvidia and Apple, benefited significantly from AI growth. TSMC's shares gained 44.2% last year, outperforming the broader market, and it is set to release full Q4 earnings and updated guidance on January 15.",
+      "banner_image": "https://www.reuters.com/resizer/v2/242WWVYDVBPQ7BCD3CPZGEQFYI.jpg?auth=4aaadc85c25ea88311e23fb4196204be8223b34610204f09cb8b3d5317e2b63b&width=1920&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922490"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818220"
+        }
+      ],
+      "overall_sentiment_score": 0.353707,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440471",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.728765",
+          "ticker_sentiment_score": "0.311785",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.633652",
+          "ticker_sentiment_score": "0.321145",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "JPM Raises PT on Taiwan Semiconductor Manufacturing Company Limited (TSM), Keeps a Buy",
+      "url": "https://www.insidermonkey.com/blog/jpm-raises-pt-on-taiwan-semiconductor-manufacturing-company-limited-tsm-keeps-a-buy-1671867/",
+      "time_published": "20260109T105400",
+      "authors": [
+        "Talha Qureshi"
+      ],
+      "summary": "JPMorgan has raised its price target for Taiwan Semiconductor Manufacturing Company Limited (TSM) from NT$1,700 to NT$2,100 while maintaining a Buy rating. The firm anticipates a 30% revenue increase in 2026 due to demand for N3 and N2, and improved gross margins. JPMorgan also projects approximately 20% revenue growth for TSM in 2027, driven by a long-term bullish outlook.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/09/19160246/TSM-insidermonkey-1695153764125.jpg?auto=format&fit=clip&expires=1799452800&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900891"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807419"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.729174"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.602440"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.647760"
+        }
+      ],
+      "overall_sentiment_score": 0.012061,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.340917",
+          "ticker_sentiment_score": "0.041388",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "JPM Raises PT on Taiwan Semiconductor Manufacturing Company Limited (TSM), Keeps a Buy",
+      "url": "https://finance.yahoo.com/news/jpm-raises-pt-taiwan-semiconductor-155431616.html",
+      "time_published": "20260109T095400",
+      "authors": [
+        "Talha Qureshi"
+      ],
+      "summary": "JPMorgan (JPM) has raised its price target for Taiwan Semiconductor Manufacturing Company Limited (TSM) while reiterating a Buy rating. The firm anticipates significant growth for TSM in 2026 and 2027, driven by increasing demand for new chip technologies and favorable market conditions. Additionally, TSM recently secured an annual license to import US chip manufacturing equipment for its Nanjing facilities, ensuring uninterrupted operations.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/ztUvb5bBfSnEzDduOrwWyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942611"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839219"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.707541"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.617061"
+        }
+      ],
+      "overall_sentiment_score": 0.010187,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.332914",
+          "ticker_sentiment_score": "0.020692",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor: The $1.65 Trillion Gatekeeper of the AI Boom",
+      "url": "https://finviz.com/news/270841/taiwan-semiconductor-the-165-trillion-gatekeeper-of-the-ai-boom",
+      "time_published": "20260108T152302",
+      "authors": [
+        "Jeffrey Neal Johnson"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) is experiencing significant growth, nearing its all-time high valuation at $1.65 trillion, driven by increasing demand for AI infrastructure. The company's unique pure-play foundry model and dominance in advanced chip manufacturing make it indispensable for major tech firms, effectively acting as a \"toll road\" for the digital economy. TSMC is also mitigating geopolitical risks through global diversification and successful execution of advanced technologies like 2nm chips and CoWoS packaging.",
+      "banner_image": "https://www.marketbeat.com/logos/articles/med_20260107130043_taiwan-semiconductor-the-1.png",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913945"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841012"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712209"
+        }
+      ],
+      "overall_sentiment_score": 0.522394,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.724549",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.869077",
+          "ticker_sentiment_score": "0.629657",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.721293",
+          "ticker_sentiment_score": "0.414197",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.686518",
+          "ticker_sentiment_score": "0.312925",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LRCX vs. TSM: Which Semiconductor Powerhouse Is the Better Buy?",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/LRCX/pressreleases/36949384/lrcx-vs-tsm-which-semiconductor-powerhouse-is-the-better-buy/",
+      "time_published": "20260108T141302",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "This article compares Lam Research Corporation (LRCX) and Taiwan Semiconductor Manufacturing Company (TSM), two key players in the semiconductor industry. While both are critical for AI and high-performance computing, the analysis concludes that LRCX offers a more favorable investment outlook due to its stable earnings growth, strong demand, and fewer geopolitical risks compared to TSM. Lam Research is rated a Zacks Rank #2 (Buy), making it the preferred choice.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/19/1136.jpg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914252"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820901"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.602789"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.638221"
+        }
+      ],
+      "overall_sentiment_score": 0.223093,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.136044",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LRCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406119",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.615652",
+          "ticker_sentiment_score": "0.341890",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TSM Hits 52-Week High: Should You Hold the Stock or Book Profits?",
+      "url": "https://finviz.com/news/269356/tsm-hits-52-week-high-should-you-hold-the-stock-or-book-profits",
+      "time_published": "20260107T151030",
+      "authors": [
+        "Anirudha Bhagat"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) recently hit a new 52-week high, driven by its pivotal role in the AI chip market, manufacturing for major clients like NVIDIA, Broadcom, and Marvell Technology. Despite strong growth and financial performance, the article suggests a cautious \"Hold\" position due to near-term risks such as softness in PC/smartphone markets, high global expansion costs, geopolitical tensions, and a premium valuation compared to the sector average.",
+      "banner_image": "NULL",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921505"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937422"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.901096"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.647474"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.635103"
+        }
+      ],
+      "overall_sentiment_score": 0.380446,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.329678",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.819287",
+          "ticker_sentiment_score": "0.413829",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.712179",
+          "ticker_sentiment_score": "0.318011",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "If I Could Only Buy and Hold a Single Stock in 2026, This Would Be It",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/36922917/if-i-could-only-buy-and-hold-a-single-stock-in-2026-this-would-be-it/",
+      "time_published": "20260107T121030",
+      "authors": [
+        "Motley Fool"
+      ],
+      "summary": "The author identifies Taiwan Semiconductor Manufacturing (TSM) as the single stock they would buy and hold in 2026 due to its crucial role as the world's leading contract chip manufacturer, especially in the AI buildout. Despite potential risks like a slowdown in AI spending or geopolitical tensions with China, TSM's technological edge, market dominance, and central position in the tech supply chain make it a strong, long-term investment. The article highlights that TSM benefits regardless of which company ultimately wins the AI hardware race, as it supplies the chips for many devices.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/e9acb12cadd1b2bdc33cfa44f7012abc/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f847629%252ftwo-people-analyizing-a-graph.jpg%26amp%3Bw%3D700",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.905113"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806141"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627937"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.619182"
+        }
+      ],
+      "overall_sentiment_score": 0.008857,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.313083",
+          "ticker_sentiment_score": "0.009266",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is It Too Late To Consider Taiwan Semiconductor Manufacturing (NYSE:TSM) After Strong Share Gains",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/is-it-too-late-to-consider-taiwan-semiconductor-manufacturin",
+      "time_published": "20260107T101030",
+      "authors": [
+        "Bailey Pemberton"
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) has experienced significant share gains, with its stock closing at US$327.43 and showing a 56.5% return over the last year. A Discounted Cash Flow (DCF) analysis suggests TSM is overvalued by 58.3% at US$206.81 per share, while a Price-to-Earnings (P/E) ratio of 28.1x, below its fair ratio of 38.2x, implies it is undervalued. The article highlights the importance of investor \"Narratives\" in understanding the company's valuation, considering factors like its role as an \"AI supply backbone\" versus geopolitical risks.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949949"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834207"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.700649"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.631557"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.616812"
+        }
+      ],
+      "overall_sentiment_score": -0.125352,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.109105",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Financial Perspectives Inc",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-financial-perspectives-inc-2026-01-06/",
+      "time_published": "20260106T110858",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Financial Perspectives Inc. recently reduced its stake in Taiwan Semiconductor Manufacturing ($TSM) by 4.8%, selling 1,721 shares and now holding 33,791 shares valued at $9.44 million. Despite this sale, TSMC shows strong bullish momentum driven by analyst upgrades, AI-driven wafer demand, and increased call-option buying, pushing the stock to record highs. However, the company faces potential operational and sentiment risks from recent indictments regarding alleged trade-secrets theft.",
+      "banner_image": "https://www.marketbeat.com/logos/taiwan-semiconductor-manufacturing-company-limited-logo-1200x675.png?v=20221020142229",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924777"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.802684"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.732704"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.609330"
+        }
+      ],
+      "overall_sentiment_score": 0.302828,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408174",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.827681",
+          "ticker_sentiment_score": "0.338873",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.639102",
+          "ticker_sentiment_score": "0.108776",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}
