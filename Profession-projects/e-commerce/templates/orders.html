@@ -1,0 +1,99 @@
+{% extends 'base.html' %}
+
+{% block title %}My Orders - E-Commerce Store{% endblock %}
+
+{% block content %}
+<div class="container my-5">
+    <h1 class="mb-4">My Orders</h1>
+    
+    {% if all_orders %}
+        {% for order in all_orders %}
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-dark text-white">
+                <div class="row align-items-center">
+                    <div class="col-md-4">
+                        <strong>Order #:</strong> {{ order.order_number }}
+                    </div>
+                    <div class="col-md-4">
+                        <strong>Status:</strong> 
+                        <span class="badge bg-{% if order.status == 'pending' %}success{% elif order.status == 'paid' %}success{% else %}danger{% endif %}">
+                            {{ order.status|title }}
+                        </span>
+                        {%if order.status == "pending"%}
+                            <button type="button" class="btn btn-outline-warning">
+                                <a class="paynow-btn" href="{{url_for('late_payment', orderNum=order.order_number)}}">PayNow</a>
+                            </button>
+                            <button type="button" class="btn btn-outline-danger" >
+                                <a class="paynow-btn" href="{{url_for('cancel_order', orderNum=order.order_number)}}">Cancel order</a>
+                            </button>
+
+                        {%endif%}
+                    </div>
+                    <div class="col-md-4 text-end">
+                        <strong>Date:</strong> {{ order.created_at.strftime('%b %d, %Y at %I:%M %p') }}
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <h5 class="card-title mb-3">Order Items</h5>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Item</th>
+                                <th>Price</th>
+                                <th>Quantity</th>
+                                <th class="text-end">Subtotal</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for item in order.parsed_items %}
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <img src="{{ item.itemImageUrl }}" alt="{{ item.itemName }}" 
+                                             class="rounded me-3" style="width: 50px; height: 50px; object-fit: cover;">
+                                        <div>
+                                            <strong>{{ item.itemName }}</strong>
+                                            <br><small class="text-muted">SKU: {{ item.itemSku }}</small>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    {% if item.itemDiscountPrice != 'None' %}
+                                        <span class="text-decoration-line-through text-muted">${{ "%.2f"|format(item.itemPrice|float) }}</span>
+                                        <span class="text-danger fw-bold">${{ "%.2f"|format(item.itemDiscountPrice|float) }}</span>
+                                    {% else %}
+                                        ${{ "%.2f"|format(item.itemPrice|float) }}
+                                    {% endif %}
+                                </td>
+                                <td>{{ item.itemCount }}</td>
+                                <td class="text-end">
+                                    {% if item.itemDiscountPrice != 'None' %}
+                                        ${{ "%.2f"|format((item.itemDiscountPrice|float) * item.itemCount) }}
+                                    {% else %}
+                                        ${{ "%.2f"|format((item.itemPrice|float) * item.itemCount) }}
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div class="text-end mt-3">
+                    <h4>Total: <span class="text-success">${{ "%.2f"|format(order.total_amount) }}</span></h4>
+                    <small class="text-muted">(Includes 8% tax)</small>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    {% else %}
+        <div class="alert alert-info" role="alert">
+            <h4 class="alert-heading">No Orders Yet</h4>
+            <p>You haven't placed any orders yet. Start shopping to see your orders here!</p>
+            <hr>
+            <a href="{{ url_for('home') }}" class="btn btn-primary">Start Shopping</a>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}

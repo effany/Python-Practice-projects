@@ -33,7 +33,6 @@ while True:
             driver.quit()
             exit(1)
 
-        # Skip detection if dinosaur is jumping (abnormal Y position)
         if dinosaur_y < 480 or dinosaur_y > 495:
             print(f"Skipping detection - dinosaur jumping (y={dinosaur_y})")
             time.sleep(0.01)
